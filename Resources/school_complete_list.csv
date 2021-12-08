@@ -1,0 +1,996 @@
+Postcode,School count,Education sector,School number,Name,Town/city,Longitude,Latitude,medianSoldPrice,numberSold
+3003,1,Catholic,25.0,Simonds Catholic College,WEST MELBOURNE,144.952883,-37.805971,1110000.0,43.0
+3008,1,Government,5573.0,Docklands Primary School,Docklands,144.940553,-37.812714,1278000.0,12.0
+3011,6,Government,253.0,Footscray Primary School,Footscray,144.89266899999998,-37.798383,1061000.0,96.0
+3011,6,Government,1912.0,Footscray City Primary School,Footscray,144.900253,-37.8064,1061000.0,96.0
+3011,6,Government,4160.0,Footscray North Primary School,Footscray,144.883372,-37.787746000000006,1061000.0,96.0
+3011,6,Government,7842.0,Footscray High School,Footscray,144.89376330000002,-37.79104291,1061000.0,96.0
+3011,6,Catholic,477.0,St Monica's School,FOOTSCRAY,144.90683700000002,-37.801162,1061000.0,96.0
+3011,6,Catholic,1146.0,St John's School,FOOTSCRAY,144.885221,-37.795825,1061000.0,96.0
+3012,2,Government,3890.0,Footscray West Primary School,West Footscray,144.87526699999998,-37.794866999999996,835000.0,151.0
+3012,2,Catholic,1648.0,Annunciation School,BROOKLYN,144.847959,-37.820989000000004,835000.0,151.0
+3013,4,Government,2832.0,Yarraville West Primary School,Yarraville,144.885386,-37.814751,1050000.0,227.0
+3013,4,Government,3988.0,Kingsville Primary School,Yarraville,144.874657,-37.812595,1050000.0,227.0
+3013,4,Government,4788.0,Wembley Primary School,Yarraville,144.874427,-37.821038,1050000.0,227.0
+3013,4,Government,5278.0,Yarraville Special Developmental School,Yarraville,144.883653,-37.817904999999996,1050000.0,227.0
+3015,6,Government,113.0,Newport Lakes Primary School,Newport,144.878345,-37.838423999999996,1000000.0,31.0
+3015,6,Government,3659.0,Spotswood Primary School,Spotswood,144.88173600000002,-37.830451000000004,1000000.0,31.0
+3015,6,Government,4665.0,Newport Gardens Primary School,Newport,144.868832,-37.845209000000004,1000000.0,31.0
+3015,6,Catholic,77.0,Sacred Heart School,NEWPORT,144.881396,-37.840028000000004,1000000.0,31.0
+3015,6,Independent,1003.0,Westbourne Grammar School,NEWPORT,144.894928,-37.850190999999995,1000000.0,31.0
+3015,6,Catholic,1527.0,St Margaret Mary's School,SPOTSWOOD,144.877732,-37.829084,1000000.0,31.0
+3016,6,Government,1183.0,Williamstown Primary School,Williamstown,144.900409,-37.863797999999996,1165000.0,16.0
+3016,6,Government,1409.0,Williamstown North Primary School,Williamstown,144.891757,-37.855902,1165000.0,16.0
+3016,6,Government,8475.0,Williamstown High School,Williamstown,144.895024,-37.862854999999996,1165000.0,16.0
+3016,6,Government,8800.0,Bayside P-12 College,Williamstown,144.8852138,-37.85770007,1165000.0,16.0
+3016,6,Catholic,78.0,St Mary's School,WILLIAMSTOWN,144.900894,-37.863498,1165000.0,16.0
+3016,6,Independent,2107.0,Lumineer Academy - Williamstown,WILLIAMSTOWN,144.905196,-37.863109,1165000.0,16.0
+3018,4,Government,3923.0,Altona Primary School,Altona,144.822742,-37.867708,993000.0,26.0
+3018,4,Government,4440.0,Seaholme Primary School,Seaholme,144.839906,-37.864212,993000.0,26.0
+3018,4,Government,8857.0,Altona College,Altona,144.818639,-37.861911,993000.0,26.0
+3018,4,Catholic,1635.0,Mount St Joseph Girls' College,ALTONA,144.811674,-37.863902,993000.0,26.0
+3019,6,Government,4792.0,Rosamond Special School,Braybrook,144.85540859999998,-37.77963666,679000.0,140.0
+3019,6,Government,5450.0,Dinjerra Primary School,Braybrook,144.85611699999998,-37.791693,679000.0,140.0
+3019,6,Government,7645.0,Braybrook College,Braybrook,144.84753700000002,-37.778257,679000.0,140.0
+3019,6,Government,8838.0,Western English Language School,Braybrook,144.8540362,-37.790995,679000.0,140.0
+3019,6,Catholic,1543.0,Christ the King Primary School,BRAYBROOK,144.86196,-37.787611,679000.0,140.0
+3019,6,Catholic,1801.0,Caroline Chisholm Catholic College,BRAYBROOK,144.8501,-37.785858000000005,679000.0,140.0
+3020,15,Government,3113.0,Sunshine Primary School,Sunshine,144.831101,-37.790881,651000.0,172.0
+3020,15,Government,4265.0,Albion Primary School,Albion,144.819753,-37.778083,651000.0,172.0
+3020,15,Government,4744.0,Sunshine Heights Primary School,Sunshine,144.818159,-37.79222,651000.0,172.0
+3020,15,Government,4745.0,Sunshine North Primary School,Sunshine North,144.837192,-37.772009999999995,651000.0,172.0
+3020,15,Government,4855.0,Albion North Primary School,Sunshine North,144.823039,-37.762121,651000.0,172.0
+3020,15,Government,5050.0,Glengala Primary School,Sunshine West,144.814068,-37.798987,651000.0,172.0
+3020,15,Government,5064.0,Ardeer South Primary School,Sunshine West,144.798996,-37.788396,651000.0,172.0
+3020,15,Government,5214.0,Furlong Park School For Deaf Children,Sunshine North,144.8271,-37.761437,651000.0,172.0
+3020,15,Government,5267.0,Sunshine Special Developmental School,Sunshine,144.819889,-37.80343497,651000.0,172.0
+3020,15,Government,5526.0,Sunshine Harvester Primary School,Sunshine,144.845687,-37.782934000000004,651000.0,172.0
+3020,15,Government,8790.0,Sunshine College,Sunshine West,144.81382,-37.793158,651000.0,172.0
+3020,15,Catholic,1101.0,Our Lady of the Immaculate Conception School,SUNSHINE,144.835562,-37.78945,651000.0,172.0
+3020,15,Catholic,1499.0,St Theresa's School,ALBION,144.820196,-37.782193,651000.0,172.0
+3020,15,Catholic,1634.0,Marian College,SUNSHINE WEST,144.806129,-37.787731,651000.0,172.0
+3020,15,Independent,1850.0,Sunshine Christian School,SUNSHINE NORTH,144.835864,-37.768396,651000.0,172.0
+3021,16,Government,2969.0,St Albans Primary School,St Albans,144.795769,-37.738748,613000.0,336.0
+3021,16,Government,4741.0,St Albans East Primary School,St Albans,144.81108899999998,-37.742166999999995,613000.0,336.0
+3021,16,Government,4811.0,St Albans North Primary School,St Albans,144.80201,-37.731745000000004,613000.0,336.0
+3021,16,Government,4945.0,University Park Primary School,St Albans,144.80307,-37.754886,613000.0,336.0
+3021,16,Government,4948.0,St Albans Heights Primary School,St Albans,144.81036799999998,-37.748653999999995,613000.0,336.0
+3021,16,Government,4979.0,Jackson School,St Albans,144.814184,-37.756021999999994,613000.0,336.0
+3021,16,Government,5047.0,Stevensville Primary School,St Albans,144.781207,-37.736096999999994,613000.0,336.0
+3021,16,Government,5118.0,St Albans Meadows Primary School,St Albans,144.817775,-37.753367,613000.0,336.0
+3021,16,Government,5139.0,Movelle Primary School,KINGS PARK,144.775361,-37.737711,613000.0,336.0
+3021,16,Government,5179.0,Albanvale Primary School,Albanvale,144.774419,-37.744023,613000.0,336.0
+3021,16,Government,5236.0,Kings Park Primary School,St Albans,144.767544,-37.733151,613000.0,336.0
+3021,16,Government,8330.0,St Albans Secondary College,St Albans,144.808411,-37.745532,613000.0,336.0
+3021,16,Government,8891.0,Victoria University Secondary College,St Albans,144.785626,-37.740102,613000.0,336.0
+3021,16,Catholic,1715.0,Holy Eucharist School,ST ALBANS SOUTH,144.811408,-37.756436,613000.0,336.0
+3021,16,Catholic,1761.0,St Paul's Kealba Catholic School,KEALBA,144.81963000000002,-37.733736,613000.0,336.0
+3021,16,Catholic,1764.0,Resurrection School,KINGS PARK,144.775394,-37.736301,613000.0,336.0
+3022,2,Government,4848.0,Ardeer Primary School,Ardeer,144.800494,-37.781074,630000.0,43.0
+3022,2,Catholic,1541.0,Mother of God School,ARDEER,144.800812,-37.779414,630000.0,43.0
+3025,3,Government,4931.0,Altona North Primary School,Altona North,144.849169,-37.836977000000005,825000.0,264.0
+3025,3,Catholic,1654.0,Emmanuel College,ALTONA NORTH,144.842389,-37.831623,825000.0,264.0
+3025,3,Catholic,1690.0,St Leo the Great Primary School,ALTONA NORTH,144.85169299999998,-37.839216,825000.0,264.0
+3029,25,Government,5002.0,Mossfiel Primary School,Hoppers Crossing,144.696117,-37.872881,586000.0,523.0
+3029,25,Government,5049.0,Woodville Primary School,Hoppers Crossing,144.69123000000002,-37.883771,586000.0,523.0
+3029,25,Government,5165.0,Warringa Park School,Hoppers Crossing,144.687587,-37.884042,586000.0,523.0
+3029,25,Government,5254.0,Bellbridge Primary School,Hoppers Crossing,144.71078,-37.871082,586000.0,523.0
+3029,25,Government,5312.0,Cambridge Primary School,Hoppers Crossing,144.675695,-37.867389,586000.0,523.0
+3029,25,Government,5315.0,Baden Powell P-9 College,Hoppers Crossing,144.69101899999998,-37.859838,586000.0,523.0
+3029,25,Government,5498.0,Truganina South Primary School,Truganina,144.725651,-37.86453,586000.0,523.0
+3029,25,Government,5501.0,Truganina P-9 College,Truganina,144.7190874,-37.83876718,586000.0,523.0
+3029,25,Government,5505.0,Davis Creek Primary School,Tarneit,144.660236,-37.855876,586000.0,523.0
+3029,25,Government,5574.0,Garrang Wilam Primary School,Truganina,144.72505,-37.828778,586000.0,523.0
+3029,25,Government,8397.0,Dohertys Creek P-9 College,Truganina,144.733911,-37.842976,586000.0,523.0
+3029,25,Government,8710.0,Hoppers Crossing Secondary College,Hoppers Crossing,144.695358,-37.871223,586000.0,523.0
+3029,25,Government,8783.0,The Grange P-12 College,Hoppers Crossing,144.6749381,-37.8581346,586000.0,523.0
+3029,25,Government,8854.0,Tarneit Senior College,Tarneit,144.6804061,-37.83335386,586000.0,523.0
+3029,25,Government,8881.0,Tarneit Rise Primary School,Tarneit,144.665822,-37.836183,586000.0,523.0
+3029,25,Government,8914.0,Tarneit P-9 College,Tarneit,144.679815,-37.837451,586000.0,523.0
+3029,25,Catholic,1722.0,St Peter Apostle School,HOPPERS CROSSING,144.69031,-37.874642,586000.0,523.0
+3029,25,Catholic,1829.0,St James the Apostle School,HOPPERS CROSSING NORTH,144.687493,-37.857286,586000.0,523.0
+3029,25,Independent,1906.0,Al-Taqwa College,TRUGANINA,144.722023,-37.85265,586000.0,523.0
+3029,25,Independent,1957.0,Good News Lutheran College,TARNEIT,144.666605,-37.855247999999996,586000.0,523.0
+3029,25,Catholic,1962.0,Thomas Carr College,TARNEIT,144.702055,-37.847676,586000.0,523.0
+3029,25,Independent,2073.0,Islamic College of Melbourne,TARNEIT,144.660376,-37.854236,586000.0,523.0
+3029,25,Catholic,2078.0,St Francis of Assisi Catholic Primary School,TARNEIT,144.69822969999998,-37.84829179,586000.0,523.0
+3029,25,Catholic,2093.0,St John the Apostle Catholic Primary School,TARNEIT,144.6657075,-37.8334172,586000.0,523.0
+3029,25,Catholic,2094.0,St Clare's Catholic Primary School,TRUGANINA SOUTH,144.7282144,-37.84381088,586000.0,523.0
+3030,25,Government,649.0,Werribee Primary School,Werribee,144.658736,-37.906865,748000.0,30.0
+3030,25,Government,4159.0,Point Cook Prep - Year 9 College,Point Cook,144.7244931,-37.89380261,748000.0,30.0
+3030,25,Government,5091.0,Manorvale Primary School,Werribee,144.643892,-37.894059999999996,748000.0,30.0
+3030,25,Government,5343.0,Thomas Chirnside Primary School,Werribee,144.63788300000002,-37.903205,748000.0,30.0
+3030,25,Government,5361.0,Riverwalk Primary School,Werribee,144.639329,-37.921032000000004,748000.0,30.0
+3030,25,Government,5365.0,Westgrove Primary School,Werribee,144.659529,-37.878502000000005,748000.0,30.0
+3030,25,Government,5486.0,Carranballac P-9 College,Point Cook,144.743132,-37.884736,748000.0,30.0
+3030,25,Government,5528.0,Alamanda K-9 College,Point Cook,144.741329,-37.908238,748000.0,30.0
+3030,25,Government,5540.0,Wyndham Park Primary School,Werribee,144.67655,-37.884867,748000.0,30.0
+3030,25,Government,7402.0,Wyndham Central Secondary College,Werribee,144.65385,-37.888932000000004,748000.0,30.0
+3030,25,Government,8246.0,Homestead Senior Secondary College,Point Cook,144.76689199999998,-37.91615,748000.0,30.0
+3030,25,Government,8303.0,Saltwater P-9 College,Point Cook,144.770284,-37.91133,748000.0,30.0
+3030,25,Government,8465.0,Werribee Secondary College,Werribee,144.668744,-37.905536,748000.0,30.0
+3030,25,Government,8847.0,Point Cook Senior Secondary College,Point Cook,144.73282,-37.886718,748000.0,30.0
+3030,25,Government,8866.0,Suzanne Cory High School,Werribee,144.700748,-37.893852,748000.0,30.0
+3030,25,Government,8899.0,Featherbrook P-9 College,Point Cook,144.7275192,-37.90163614,748000.0,30.0
+3030,25,Catholic,338.0,St Andrew's School,WERRIBEE,144.650573,-37.901272,748000.0,30.0
+3030,25,Catholic,1684.0,MacKillop Catholic Regional College,WERRIBEE,144.66510159999999,-37.90950211,748000.0,30.0
+3030,25,Independent,1846.0,Heathdale Christian College,WERRIBEE,144.681332,-37.881318,748000.0,30.0
+3030,25,Catholic,1898.0,Corpus Christi School,WERRIBEE,144.6634428,-37.90994759,748000.0,30.0
+3030,25,Catholic,1945.0,Bethany Catholic Primary School,WERRIBEE NORTH,144.65866100000002,-37.875586,748000.0,30.0
+3030,25,Catholic,1991.0,Lumen Christi School,POINT COOK,144.753344,-37.892603,748000.0,30.0
+3030,25,Catholic,2033.0,Stella Maris Catholic Primary School,POINT COOK,144.728681,-37.890763,748000.0,30.0
+3030,25,Catholic,2089.0,St Mary of the Cross Catholic Primary School,POINT COOK,144.7659456,-37.90879787,748000.0,30.0
+3030,25,Catholic,2235.0,St Joseph’s Catholic Primary School,WERRIBEE,144.610275,-37.903296000000005,748000.0,30.0
+3031,7,Government,250.0,Flemington Primary School,Flemington,144.933923,-37.780674,1030000.0,128.0
+3031,7,Government,2374.0,Kensington Primary School,Kensington,144.927615,-37.79267,1030000.0,128.0
+3031,7,Government,5068.0,Debney Meadows Primary School,Flemington,144.935148,-37.785985,1030000.0,128.0
+3031,7,Government,7763.0,Mount Alexander 7-12 College,Flemington,144.933235,-37.782154,1030000.0,128.0
+3031,7,Government,7947.0,Kensington Community High School,Kensington,144.925577,-37.787909,1030000.0,128.0
+3031,7,Catholic,113.0,St Brendan's School,FLEMINGTON,144.931728,-37.784696000000004,1030000.0,128.0
+3031,7,Catholic,1033.0,Holy Rosary School,KENSINGTON,144.92878000000002,-37.795584000000005,1030000.0,128.0
+3032,6,Government,2608.0,Ascot Vale Primary School,Ascot Vale,144.926119,-37.774322,1618000.0,17.0
+3032,6,Government,4025.0,Ascot Vale West Primary School,Ascot Vale,144.911125,-37.78068,1618000.0,17.0
+3032,6,Government,4465.0,Travancore School,TRAVANCORE,144.934867,-37.781903,1618000.0,17.0
+3032,6,Government,5109.0,Ascot Vale Heights School,Ascot Vale,144.932355,-37.776821000000005,1618000.0,17.0
+3032,6,Government,8015.0,Maribyrnong Secondary College,Maribyrnong,144.888238,-37.779521,1618000.0,17.0
+3032,6,Catholic,1563.0,St Margaret's Primary School,MARIBYRNONG,144.89103899999998,-37.766895,1618000.0,17.0
+3033,3,Government,4877.0,Keilor Heights Primary School,Keilor East,144.866495,-37.737516,860000.0,181.0
+3033,3,Government,8806.0,Essendon Keilor College,Keilor East,144.8697108,-37.73970794,860000.0,181.0
+3033,3,Independent,1144.0,Penleigh & Essendon Grammar School,KEILOR EAST,144.870337,-37.732154,860000.0,181.0
+3034,2,Government,4812.0,Avondale Primary School,Avondale Heights,144.861529,-37.766157,863000.0,133.0
+3034,2,Catholic,1674.0,St Martin de Porres School,AVONDALE HEIGHTS,144.861624,-37.758468,863000.0,133.0
+3037,9,Government,3559.0,Sydenham - Hillside Primary School,Sydenham,144.762327,-37.702046,755000.0,128.0
+3037,9,Government,5297.0,Mackellar Primary School,Delahey,144.777528,-37.717234000000005,755000.0,128.0
+3037,9,Government,5480.0,Parkwood Green Primary School,Hillside,144.74446,-37.699206,755000.0,128.0
+3037,9,Government,5508.0,Taylors Hill Primary School,Taylors Hill,144.75990180000002,-37.71669468,755000.0,128.0
+3037,9,Government,8799.0,Copperfield College,Delahey,144.772426,-37.719463,755000.0,128.0
+3037,9,Independent,1742.0,Gilson College,TAYLORS HILL,144.763149,-37.724602000000004,755000.0,128.0
+3037,9,Catholic,1834.0,Catholic Regional College Institute of Training,SYDENHAM,144.771012,-37.699135999999996,755000.0,128.0
+3037,9,Catholic,1959.0,Emmaus Catholic Primary School,SYDENHAM,144.772244,-37.700300899999995,755000.0,128.0
+3037,9,Catholic,2021.0,Cana Catholic Primary School,HILLSIDE,144.747148,-37.687915999999994,755000.0,128.0
+3038,6,Government,5258.0,Taylors Lakes Primary School,Taylors Lakes,144.793766,-37.709651,800000.0,83.0
+3038,6,Government,5336.0,Monmia Primary School,Keilor Downs,144.79205,-37.717269,800000.0,83.0
+3038,6,Government,5539.0,Keilor Views Primary School,Keilor Downs,144.80918799999998,-37.717649,800000.0,83.0
+3038,6,Government,8715.0,Keilor Downs Secondary College,Keilor Downs,144.81118600000002,-37.715515,800000.0,83.0
+3038,6,Government,8787.0,Taylors Lakes Secondary College,Taylors Lakes,144.794402,-37.707409999999996,800000.0,83.0
+3038,6,Catholic,1877.0,St Mary MacKillop Primary School,KEILOR DOWNS,144.804346,-37.714625,800000.0,83.0
+3039,3,Government,2901.0,Moonee Ponds West Primary School,Moonee Ponds,144.909334,-37.768947,1270000.0,131.0
+3039,3,Government,3987.0,Moonee Ponds Primary School,Moonee Ponds,144.932986,-37.763341,1270000.0,131.0
+3039,3,Catholic,566.0,St Monica's Primary School,MOONEE PONDS,144.92318400000002,-37.759665000000005,1270000.0,131.0
+3040,10,Government,483.0,Essendon Primary School,Essendon,144.921042,-37.753095,1360000.0,223.0
+3040,10,Government,4220.0,Aberfeldie Primary School,Essendon,144.894774,-37.756488,1360000.0,223.0
+3040,10,Government,7670.0,Buckley Park College,Essendon,144.89775500000002,-37.747116999999996,1360000.0,223.0
+3040,10,Catholic,707.0,St Columba's College,ESSENDON,144.91429,-37.757202,1360000.0,223.0
+3040,10,Independent,1117.0,Lowther Hall Anglican Grammar School,ESSENDON,144.914974,-37.759908,1360000.0,223.0
+3040,10,Catholic,1193.0,St Therese's School,ESSENDON,144.910309,-37.751111,1360000.0,223.0
+3040,10,Catholic,1471.0,St Bernard's College,ESSENDON,144.8832,-37.749392,1360000.0,223.0
+3040,10,Catholic,1513.0,Resurrection House,ESSENDON,144.905195,-37.756648,1360000.0,223.0
+3040,10,Catholic,1585.0,Our Lady of the Nativity School,ABERFELDIE,144.896581,-37.756347,1360000.0,223.0
+3040,10,Catholic,1625.0,Ave Maria College,ABERFELDIE,144.897964,-37.756617999999996,1360000.0,223.0
+3042,4,Government,5362.0,Niddrie Autistic School (interim name),Niddrie,144.88706200000001,-37.743926,1050000.0,99.0
+3042,4,Government,5410.0,Niddrie Primary School,Niddrie,144.878433,-37.7308455,1050000.0,99.0
+3042,4,Government,7275.0,Rosehill Secondary College,Niddrie,144.88618300000002,-37.746679,1050000.0,99.0
+3042,4,Catholic,1534.0,St John Bosco's School,NIDDRIE,144.889028,-37.743657,1050000.0,99.0
+3043,5,Government,4852.0,Tullamarine Primary School,Tullamarine,144.87957,-37.702203999999995,648000.0,70.0
+3043,5,Government,5007.0,Gladstone Park Primary School,Gladstone Park,144.886579,-37.687146000000006,648000.0,70.0
+3043,5,Government,5093.0,Gladstone Views Primary School,Gladstone Park,144.89837,-37.689009999999996,648000.0,70.0
+3043,5,Government,7858.0,Gladstone Park Secondary College,Gladstone Park,144.890003,-37.689766,648000.0,70.0
+3043,5,Catholic,1735.0,School of the Good Shepherd,GLADSTONE PARK,144.88945800000002,-37.693031,648000.0,70.0
+3044,7,Government,3081.0,Pascoe Vale Primary School,Pascoe Vale,144.937255,-37.731225,817000.0,257.0
+3044,7,Government,4158.0,Westbreen Primary School,Pascoe Vale,144.935476,-37.716291,817000.0,257.0
+3044,7,Government,4704.0,Pascoe Vale South Primary School,Pascoe Vale South,144.93561499999998,-37.745715999999994,817000.0,257.0
+3044,7,Government,4731.0,Pascoe Vale North Primary School,Pascoe Vale,144.94848000000002,-37.721258,817000.0,257.0
+3044,7,Government,8227.0,Pascoe Vale Girls Secondary College,Pascoe Vale,144.935499,-37.717564,817000.0,257.0
+3044,7,Catholic,1465.0,St Oliver Plunkett's School,PASCOE VALE,144.941855,-37.730886,817000.0,257.0
+3044,7,Catholic,2010.0,Antonine College,PASCOE VALE SOUTH,144.9427365,-37.74119138,817000.0,257.0
+3046,8,Government,4721.0,Oak Park Primary School,Oak Park,144.915042,-37.715528000000006,821000.0,117.0
+3046,8,Government,4809.0,Glenroy West Primary School,Glenroy,144.908293,-37.704957,821000.0,117.0
+3046,8,Government,4915.0,Glenroy Specialist School,Glenroy,144.92052919999998,-37.69935785,821000.0,117.0
+3046,8,Government,5453.0,Belle Vue Park Primary School,Glenroy,144.943937,-37.701198,821000.0,117.0
+3046,8,Government,5542.0,Glenroy Central Primary School,Glenroy,144.925037,-37.704276,821000.0,117.0
+3046,8,Government,8893.0,Glenroy Secondary College,Glenroy,144.92499519999998,-37.70470214,821000.0,117.0
+3046,8,Catholic,1616.0,St Francis de Sales School,OAK PARK,144.921079,-37.718847,821000.0,117.0
+3046,8,Independent,2080.0,Glenroy Private,GLENROY,144.9292633,-37.69777468,821000.0,117.0
+3047,13,Government,4875.0,Broadmeadows Primary School,Broadmeadows,144.928493,-37.680191,563000.0,32.0
+3047,13,Government,4950.0,Hume Valley School,Broadmeadows,144.927013,-37.672396,563000.0,32.0
+3047,13,Government,5098.0,Broadmeadows Valley Primary School,Broadmeadows,144.914095,-37.681404,563000.0,32.0
+3047,13,Government,5262.0,Broadmeadows Special Developmental School,Broadmeadows,144.914104,-37.68164744,563000.0,32.0
+3047,13,Government,5524.0,Meadows Primary School,Broadmeadows,144.92956,-37.687539,563000.0,32.0
+3047,13,Government,5546.0,Dallas Brooks Community Primary School,Dallas,144.941852,-37.670302,563000.0,32.0
+3047,13,Government,5555.0,Jacana School for Autism,Jacana,144.913093,-37.687625,563000.0,32.0
+3047,13,Government,8862.0,Hume Central Secondary College,Broadmeadows,144.915355,-37.680442,563000.0,32.0
+3047,13,Catholic,1653.0,Holy Child School,DALLAS,144.931984,-37.665735999999995,563000.0,32.0
+3047,13,Independent,1947.0,Ilim College,BROADMEADOWS,144.930072,-37.668621,563000.0,32.0
+3047,13,Catholic,1949.0,Penola Catholic College,BROADMEADOWS,144.918263,-37.687856,563000.0,32.0
+3047,13,Independent,1958.0,Sirius College,BROADMEADOWS,144.93563830000002,-37.68471741,563000.0,32.0
+3047,13,Independent,2238.0,My College,DALLAS,144.923692,-37.675751,563000.0,32.0
+3048,4,Government,5186.0,Bethal Primary School,Meadow Heights,144.917819,-37.659196,538000.0,84.0
+3048,4,Government,5227.0,Meadow Heights Primary School,Meadow Heights,144.923844,-37.650422999999996,538000.0,84.0
+3048,4,Government,5554.0,Coolaroo South Primary School,Coolaroo,144.930905,-37.66206,538000.0,84.0
+3048,4,Independent,1934.0,St Mary's Coptic Orthodox College,COOLAROO,144.93121200000002,-37.65583,538000.0,84.0
+3049,1,Government,982.0,Westmeadows Primary School,Westmeadows,144.89569699999998,-37.675649,620000.0,99.0
+3051,5,Government,1402.0,North Melbourne Primary School,North Melbourne,144.950637,-37.798733,1150000.0,76.0
+3051,5,Catholic,98.0,St Michael's School,MELBOURNE NORTH,144.946246,-37.793305,1150000.0,76.0
+3051,5,Catholic,605.0,St Aloysius College,NORTH MELBOURNE,144.942875,-37.792891999999995,1150000.0,76.0
+3051,5,Catholic,2079.0,St Joseph's Flexible Learning Centre Melbourne,NORTH MELBOURNE,144.9549374,-37.80384382,1150000.0,76.0
+3051,5,Independent,2111.0,River Nile School,NORTH MELBOURNE,144.955088,-37.805194,1150000.0,76.0
+3052,3,Government,5023.0,Royal Childrens Hospital Education Institute,Parkville,144.95096940000002,-37.79434935,1425000.0,25.0
+3052,3,Government,8405.0,University High School,Parkville,144.95538,-37.796982,1425000.0,25.0
+3052,3,Government,8916.0,Parkville College,Parkville,144.94736,-37.776815,1425000.0,25.0
+3053,2,Government,2605.0,Carlton Gardens Primary School,Carlton,144.969512,-37.802046999999995,1326000.0,37.0
+3053,2,Government,4980.0,Carlton Primary School,Carlton,144.97045,-37.795602,1326000.0,37.0
+3054,3,Government,1252.0,Carlton North Primary School,Carlton North,144.973028,-37.791064,1650000.0,27.0
+3054,3,Government,2955.0,Princes Hill Primary School,Carlton North,144.9681013,-37.78039994,1650000.0,27.0
+3054,3,Government,8245.0,Princes Hill Secondary College,Princes Hill,144.96503,-37.783481,1650000.0,27.0
+3055,3,Government,3585.0,Brunswick North Primary School,Brunswick West,144.95043,-37.759837,966000.0,136.0
+3055,3,Government,4304.0,Brunswick South West Primary School,Brunswick West,144.943522,-37.770575,966000.0,136.0
+3055,3,Government,4399.0,Brunswick North West Primary School,Brunswick West,144.943592,-37.756708,966000.0,136.0
+3057,2,Government,2743.0,Brunswick South Primary School,Brunswick East,144.97253600000002,-37.778704,1176000.0,87.0
+3057,2,Government,3179.0,Brunswick East Primary School,Brunswick East,144.980001,-37.765271000000006,1176000.0,87.0
+3058,11,Government,484.0,Coburg Primary School,Coburg,144.968211,-37.741303,849000.0,111.0
+3058,11,Government,2837.0,Moreland Primary School,Coburg,144.966478,-37.755046,849000.0,111.0
+3058,11,Government,3941.0,Coburg West Primary School,Coburg,144.947624,-37.74715,849000.0,111.0
+3058,11,Government,4543.0,Coburg North Primary School,Coburg,144.951854,-37.736171,849000.0,111.0
+3058,11,Government,5261.0,Coburg Special Developmental School,Coburg,144.951739,-37.732915999999996,849000.0,111.0
+3058,11,Government,8849.0,Coburg High School,Coburg,144.9728,-37.7407,849000.0,111.0
+3058,11,Catholic,336.0,St Paul's School,COBURG,144.96785500000001,-37.738929,849000.0,111.0
+3058,11,Catholic,1265.0,St Fidelis' School,MORELAND,144.951561,-37.74984,849000.0,111.0
+3058,11,Catholic,1459.0,St Bernard's School,COBURG EAST,144.972708,-37.747422,849000.0,111.0
+3058,11,Catholic,1661.0,Mercy College,COBURG,144.964562,-37.730398,849000.0,111.0
+3058,11,Independent,1874.0,Australian International Academy of Education,COBURG,144.966123,-37.736331,849000.0,111.0
+3059,5,Government,890.0,Greenvale Primary School,Greenvale,144.886181,-37.639828,730000.0,243.0
+3059,5,Government,5412.0,Keelonith Primary School,Greenvale,144.878837,-37.623205,730000.0,243.0
+3059,5,Catholic,1911.0,St Carlo Borromeo School,GREENVALE,144.88863500000002,-37.653642,730000.0,243.0
+3059,5,Independent,1978.0,Aitken College,GREENVALE,144.890698,-37.627709,730000.0,243.0
+3059,5,Catholic,2051.0,Kolbe Catholic College,GREENVALE LAKES,144.909467,-37.615321,730000.0,243.0
+3060,6,Government,3590.0,Fawkner Primary School,Fawkner,144.974756,-37.715235,715000.0,165.0
+3060,6,Government,4876.0,Moomba Park Primary School,Fawkner,144.967219,-37.69576,715000.0,165.0
+3060,6,Government,8894.0,John Fawkner Secondary College,Fawkner,144.97185869999998,-37.70271075,715000.0,165.0
+3060,6,Catholic,1398.0,St Mark's School,FAWKNER,144.963618,-37.716278,715000.0,165.0
+3060,6,Catholic,1612.0,St Matthew's School,FAWKNER NORTH,144.967951,-37.698156,715000.0,165.0
+3060,6,Independent,1965.0,Darul Ulum College of Victoria,FAWKNER NORTH,144.971692,-37.705178000000004,715000.0,165.0
+3061,1,Government,5034.0,Campbellfield Heights Primary School,Campbellfield,144.96587,-37.674326,580000.0,29.0
+3064,20,Government,1051.0,Mickleham Primary School,Mickleham,144.876546,-37.563495,595000.0,227.0
+3064,20,Government,4770.0,Craigieburn Primary School,Craigieburn,144.933545,-37.582645,595000.0,227.0
+3064,20,Government,5243.0,Craigieburn South Primary School,Craigieburn,144.935852,-37.608753,595000.0,227.0
+3064,20,Government,5342.0,Willmott Park Primary School,Craigieburn,144.92259199999998,-37.591778000000005,595000.0,227.0
+3064,20,Government,5443.0,Roxburgh Homestead Primary School,Roxburgh Park,144.916279,-37.632064,595000.0,227.0
+3064,20,Government,5485.0,Roxburgh Park Primary School,Roxburgh Park,144.931401,-37.634239,595000.0,227.0
+3064,20,Government,5493.0,Roxburgh Rise Primary School,Roxburgh Park,144.923504,-37.616207,595000.0,227.0
+3064,20,Government,5522.0,Aitken Creek Primary School,Craigieburn,144.905568,-37.58175,595000.0,227.0
+3064,20,Government,5545.0,Newbury Primary School,Craigieburn,144.909548,-37.570989000000004,595000.0,227.0
+3064,20,Government,5567.0,Aitken Hill Primary School,Craigieburn,144.905558,-37.601714,595000.0,227.0
+3064,20,Government,5579.0,Gaayip-Yagila Primary School,Mickleham,144.909089,-37.528608,595000.0,227.0
+3064,20,Government,7082.0,Elevation Secondary College,Craigieburn,144.890252,-37.598288000000004,595000.0,227.0
+3064,20,Government,8407.0,Roxburgh College,Roxburgh Park,144.930331,-37.63041,595000.0,227.0
+3064,20,Government,8705.0,Craigieburn Secondary College,Craigieburn,144.9359541,-37.60875112,595000.0,227.0
+3064,20,Government,8853.0,Mount Ridley P-12 College,Craigieburn,144.9231944,-37.58030966,595000.0,227.0
+3064,20,Catholic,1807.0,Our Lady's School,CRAIGIEBURN,144.931372,-37.598603000000004,595000.0,227.0
+3064,20,Catholic,1951.0,Good Samaritan Catholic Primary School,ROXBURGH PARK,144.934319,-37.62344,595000.0,227.0
+3064,20,Independent,2052.0,Hume Anglican Grammar,MICKLEHAM,144.931253,-37.56798,595000.0,227.0
+3064,20,Catholic,2055.0,Mother Teresa School,MT RIDLEY,144.93276200000003,-37.575224,595000.0,227.0
+3064,20,Catholic,2218.0,Oscar Romero Catholic Primary School,CRAIGIEBURN WEST,144.896101,-37.581972,595000.0,227.0
+3065,3,Government,450.0,Fitzroy Primary School,Fitzroy,144.981511,-37.799603000000005,1393000.0,104.0
+3065,3,Catholic,467.0,Academy of Mary Immaculate,FITZROY,144.974409,-37.803711,1393000.0,104.0
+3065,3,Independent,2112.0,Brotherhood of St Laurence|David Scott School,FITZROY,144.976949,-37.804590000000005,1393000.0,104.0
+3067,2,Government,1886.0,Abbotsford Primary School,Abbotsford,144.99881399999998,-37.808979,1220000.0,75.0
+3067,2,Independent,1905.0,Sophia Mundi Steiner School,ABBOTSFORD,145.005225,-37.803664000000005,1220000.0,75.0
+3070,5,Government,1401.0,Northcote Primary School,Northcote,144.99688,-37.771758,1490000.0,248.0
+3070,5,Government,4177.0,Westgarth Primary School,Northcote,145.005561,-37.776471,1490000.0,248.0
+3070,5,Government,4679.0,Croxton Special School,Northcote,144.98739780000002,-37.76399724,1490000.0,248.0
+3070,5,Government,8180.0,Northcote High School,Northcote,144.989706,-37.774156,1490000.0,248.0
+3070,5,Catholic,1386.0,Santa Maria College,NORTHCOTE,145.00248,-37.770356,1490000.0,248.0
+3071,7,Government,3139.0,Wales Street Primary School,Thornbury,145.008833,-37.761509999999994,1258000.0,159.0
+3071,7,Government,3806.0,Penders Grove Primary School,Thornbury,145.01426999999998,-37.754517,1258000.0,159.0
+3071,7,Government,3889.0,Thornbury Primary School,Thornbury,144.996748,-37.755425,1258000.0,159.0
+3071,7,Government,6261.0,Virtual School Victoria,Thornbury,145.025701,-37.76204,1258000.0,159.0
+3071,7,Government,6359.0,Victorian School Of Languages,Thornbury,145.0258329,-37.76194829999999,1258000.0,159.0
+3071,7,Government,8797.0,Thornbury High School,Thornbury,145.0252135,-37.75649469,1258000.0,159.0
+3071,7,Catholic,1516.0,Holy Spirit School,THORNBURY EAST,145.01619,-37.760845,1258000.0,159.0
+3072,12,Government,824.0,Preston South Primary School,Preston,145.00744699999998,-37.747867,994000.0,327.0
+3072,12,Government,1494.0,Preston Primary School,Preston,145.01031,-37.730548,994000.0,327.0
+3072,12,Government,3552.0,Yarra Me School,Preston,145.0181746,-37.73790557,994000.0,327.0
+3072,12,Government,3885.0,Preston West Primary School,Preston,144.99553,-37.737365999999994,994000.0,327.0
+3072,12,Government,4309.0,Bell Primary School,Preston,144.990613,-37.747698,994000.0,327.0
+3072,12,Government,4646.0,Newlands Primary School,Preston,144.985377,-37.730113,994000.0,327.0
+3072,12,Government,4764.0,Preston North East Primary School,East Preston,145.029455,-37.733052,994000.0,327.0
+3072,12,Government,7300.0,Northern College of the Arts and Technology,Preston,145.025372,-37.740069,994000.0,327.0
+3072,12,Government,8241.0,Preston High School,Preston,145.006401,-37.741692,994000.0,327.0
+3072,12,Catholic,1412.0,St Raphael's School,PRESTON WEST,144.992623,-37.734097999999996,994000.0,327.0
+3072,12,Independent,1788.0,St John's College Preston,PRESTON,144.998743,-37.747246000000004,994000.0,327.0
+3072,12,Independent,1972.0,East Preston Islamic College,EAST PRESTON,145.03621840000002,-37.73395414,994000.0,327.0
+3073,14,Government,3960.0,Reservoir Primary School,Reservoir,145.00677,-37.711420000000004,757000.0,625.0
+3073,14,Government,4686.0,Reservoir East Primary School,Reservoir,145.021837,-37.719975,757000.0,625.0
+3073,14,Government,4711.0,Reservoir West Primary School,Reservoir,144.990229,-37.722134999999994,757000.0,625.0
+3073,14,Government,5219.0,Northern School For Autism,Reservoir,145.02993419999999,-37.70058524,757000.0,625.0
+3073,14,Government,5523.0,Reservoir Views Primary School,Reservoir,145.022725,-37.705518,757000.0,625.0
+3073,14,Government,5544.0,William Ruthven Primary School,Reservoir,145.0027816,-37.69666885,757000.0,625.0
+3073,14,Government,8708.0,Reservoir High School,Reservoir,145.029772,-37.722259,757000.0,625.0
+3073,14,Government,8895.0,William Ruthven Secondary College,Reservoir,145.002774,-37.696666,757000.0,625.0
+3073,14,Catholic,1289.0,St Gabriel's School,RESERVOIR,145.005121,-37.718019,757000.0,625.0
+3073,14,Catholic,1438.0,Holy Name School,PRESTON EAST,145.018574,-37.730261,757000.0,625.0
+3073,14,Catholic,1580.0,St Stephen's School,RESERVOIR EAST,145.019202,-37.711568,757000.0,625.0
+3073,14,Catholic,1763.0,St Joseph the Worker School,RESERVOIR NORTH,144.99292,-37.702216,757000.0,625.0
+3073,14,Independent,1961.0,Maharishi School of the Age of Enlightenment,RESERVOIR,145.019467,-37.704377,757000.0,625.0
+3073,14,Independent,2110.0,Preston Reservoir Adult Community Education Inc | PRACE College,RESERVOIR,145.009255,-37.698704,757000.0,625.0
+3074,8,Government,631.0,Thomastown Primary School,Thomastown,145.011495,-37.682271,655000.0,141.0
+3074,8,Government,4827.0,Thomastown East Primary School,Thomastown,145.024899,-37.680325,655000.0,141.0
+3074,8,Government,4976.0,Lalor East Primary School,Thomastown,145.035535,-37.67658,655000.0,141.0
+3074,8,Government,4999.0,Thomastown West Primary School,Thomastown,145.0007873,-37.67870395,655000.0,141.0
+3074,8,Government,5134.0,Thomastown Meadows Primary School,Thomastown,144.993096,-37.682589,655000.0,141.0
+3074,8,Government,8383.0,Thomastown Secondary College,Thomastown,145.0019385,-37.67871605,655000.0,141.0
+3074,8,Catholic,1733.0,St John XXIII Primary School,THOMASTOWN EAST,145.03920369999997,-37.67842204,655000.0,141.0
+3074,8,Catholic,1752.0,St Clare's School,THOMASTOWN WEST,144.9977174,-37.67775056,655000.0,141.0
+3078,4,Government,2711.0,Fairfield Primary School,Fairfield,145.020401,-37.777993,1373000.0,67.0
+3078,4,Government,3599.0,Alphington Primary School,Alphington,145.032006,-37.783522999999995,1373000.0,67.0
+3078,4,Catholic,1041.0,St Anthony's School,ALPHINGTON,145.020362,-37.780069,1373000.0,67.0
+3078,4,Independent,1924.0,Alphington Grammar School,ALPHINGTON,145.036174,-37.780429,1373000.0,67.0
+3079,6,Government,2436.0,Ivanhoe Primary School,Ivanhoe,145.04298,-37.766573,2000000.0,35.0
+3079,6,Government,4386.0,Ivanhoe East Primary School,Ivanhoe East,145.059453,-37.774587,2000000.0,35.0
+3079,6,Independent,1004.0,Ivanhoe Grammar School,IVANHOE,145.044477,-37.772515000000006,2000000.0,35.0
+3079,6,Catholic,1164.0,Mary Immaculate School,IVANHOE,145.038756,-37.771941,2000000.0,35.0
+3079,6,Independent,1187.0,Ivanhoe Girls' Grammar School,IVANHOE,145.046721,-37.765273,2000000.0,35.0
+3079,6,Catholic,1500.0,St Bernadette's School,IVANHOE WEST,145.034125,-37.763063,2000000.0,35.0
+3081,2,Government,5144.0,Waratah Special Developmental School,Bellfield,145.040741,-37.756289,699000.0,81.0
+3081,2,Catholic,1526.0,St Pius X School,HEIDELBERG WEST,145.04629,-37.746924,699000.0,81.0
+3082,6,Government,1915.0,Plenty Parklands Primary School,Mill Park,145.0769441,-37.6697252,707000.0,249.0
+3082,6,Government,5160.0,Mill Park Primary School,Mill Park,145.06588159999998,-37.674605799999995,707000.0,249.0
+3082,6,Government,5244.0,Findon Primary School,Mill Park,145.0510724,-37.66649725,707000.0,249.0
+3082,6,Government,5325.0,Mill Park Heights Primary School,Mill Park,145.051747,-37.657331,707000.0,249.0
+3082,6,Government,8775.0,Mill Park Secondary College,Mill Park,145.063414,-37.664155,707000.0,249.0
+3082,6,Catholic,1809.0,St Francis of Assisi School,MILL PARK,145.0589142,-37.66499475,707000.0,249.0
+3083,9,Government,3618.0,Norris Bank Primary School,Bundoora,145.04263410000001,-37.694511799999994,753000.0,30.0
+3083,9,Government,4845.0,Kingsbury Primary School,Kingsbury,145.037204,-37.716025,753000.0,30.0
+3083,9,Government,4944.0,Bundoora Primary School,Bundoora,145.062989,-37.707339000000005,753000.0,30.0
+3083,9,Government,5027.0,Concord School,Bundoora,145.075008,-37.701999,753000.0,30.0
+3083,9,Government,7874.0,Bundoora Secondary College,Bundoora,145.061977,-37.707501,753000.0,30.0
+3083,9,Catholic,20.0,Parade College,BUNDOORA,145.066978,-37.690178,753000.0,30.0
+3083,9,Catholic,1627.0,Our Lady of the Way School,KINGSBURY,145.035525,-37.715261,753000.0,30.0
+3083,9,Catholic,1656.0,St Damian's School,BUNDOORA,145.0572167,-37.698494200000006,753000.0,30.0
+3083,9,Independent,1787.0,Northside Christian College,BUNDOORA,145.0546707,-37.69501422,753000.0,30.0
+3084,9,Government,294.0,Heidelberg Primary School,Heidelberg,145.067799,-37.754705,1018000.0,70.0
+3084,9,Government,3605.0,The Austin School,Heidelberg,145.058287,-37.755435,1018000.0,70.0
+3084,9,Government,4568.0,Rosanna Primary School,Rosanna,145.062899,-37.735395000000004,1018000.0,70.0
+3084,9,Government,4746.0,Banyule Primary School,Rosanna,145.077938,-37.743611,1018000.0,70.0
+3084,9,Government,4753.0,Rosanna Golf Links Primary School,Rosanna,145.0741188,-37.73512039,1018000.0,70.0
+3084,9,Government,4892.0,Viewbank Primary School,Viewbank,145.08999,-37.73473,1018000.0,70.0
+3084,9,Government,8812.0,Viewbank College,Viewbank,145.08659,-37.741196,1018000.0,70.0
+3084,9,Catholic,914.0,Our Lady of Mercy College,HEIDELBERG,145.067586,-37.75793,1018000.0,70.0
+3084,9,Catholic,1582.0,St Martin of Tours School,ROSANNA,145.076979,-37.735182,1018000.0,70.0
+3085,3,Government,5438.0,Streeton Primary School,Yallambie,145.102224,-37.721556,845000.0,33.0
+3085,3,Government,6242.0,Macleod College,Macleod,145.072218,-37.724746,845000.0,33.0
+3085,3,Government,8890.0,Charles La Trobe P-12 College,Macleod West,145.05865,-37.728966,845000.0,33.0
+3087,3,Government,4838.0,Watsonia Primary School,Watsonia,145.086916,-37.707027000000004,830000.0,39.0
+3087,3,Government,4988.0,Watsonia North Primary School,Watsonia North,145.080509,-37.700395,830000.0,39.0
+3087,3,Catholic,1810.0,Loyola College,WATSONIA,145.08073000000002,-37.703396000000005,830000.0,39.0
+3089,3,Government,1003.0,Diamond Creek Primary School,Diamond Creek,145.1516539,-37.67184929,865000.0,149.0
+3089,3,Government,5037.0,Diamond Creek East Primary School,Diamond Creek,145.165596,-37.674193,865000.0,149.0
+3089,3,Government,8746.0,Diamond Valley College,Diamond Creek,145.167403,-37.672828,865000.0,149.0
+3093,1,Government,1295.0,Lower Plenty Primary School,Lower Plenty,145.115498,-37.726172,979000.0,41.0
+3094,4,Government,4112.0,Montmorency Primary School,Montmorency,145.121599,-37.717652,930000.0,120.0
+3094,4,Government,4925.0,Montmorency South Primary School,Montmorency,145.12989,-37.724916,930000.0,120.0
+3094,4,Government,8068.0,Montmorency Secondary College,Montmorency,145.11361100000002,-37.714075,930000.0,120.0
+3094,4,Catholic,1343.0,St Francis Xavier's School,MONTMORENCY,145.12656130000002,-37.71600768,930000.0,120.0
+3095,11,Government,209.0,Eltham Primary School,Eltham,145.1478042,-37.72498353,1255000.0,43.0
+3095,11,Government,2959.0,Research Primary School,Research,145.1835697,-37.70291933,1255000.0,43.0
+3095,11,Government,4212.0,Eltham North Primary School,Eltham North,145.1508655,-37.70011091,1255000.0,43.0
+3095,11,Government,4897.0,Eltham East Primary School,Eltham,145.154861,-37.711432,1255000.0,43.0
+3095,11,Government,5260.0,Glen Katherine Primary School,Eltham North,145.139837,-37.689982,1255000.0,43.0
+3095,11,Government,7805.0,Eltham High School,Eltham,145.141725,-37.724436,1255000.0,43.0
+3095,11,Government,8730.0,St Helena Secondary College,Eltham North,145.13990780000003,-37.68686717,1255000.0,43.0
+3095,11,Catholic,576.0,Catholic Ladies' College Ltd,ELTHAM,145.143563,-37.711525,1255000.0,43.0
+3095,11,Catholic,1275.0,Our Lady Help of Christians School,ELTHAM,145.14791200000002,-37.716122999999996,1255000.0,43.0
+3095,11,Independent,1714.0,Eltham College,RESEARCH,145.19223200000002,-37.70044311,1255000.0,43.0
+3095,11,Catholic,1910.0,Holy Trinity Primary School,ELTHAM NORTH,145.13546100000002,-37.698439,1255000.0,43.0
+3099,4,Government,1666.0,Arthurs Creek Primary School,Arthurs Creek,145.20250159999998,-37.57900478,845000.0,38.0
+3099,4,Government,3939.0,Hurstbridge Primary School,Hurstbridge,145.19812,-37.635897,845000.0,38.0
+3099,4,Government,3947.0,Strathewen Primary School,Strathewen,145.270094,-37.547579,845000.0,38.0
+3099,4,Independent,1721.0,Learning Co-Operative School,COTTLES BRIDGE,145.2133347,-37.62939233,845000.0,38.0
+3101,11,Government,1075.0,Kew Primary School,Kew,145.033386,-37.803639000000004,2353000.0,250.0
+3101,11,Independent,83.0,Ruyton Girls' School,KEW,145.039181,-37.811111,2353000.0,250.0
+3101,11,Independent,259.0,Methodist Ladies' College,KEW,145.038491,-37.813951,2353000.0,250.0
+3101,11,Catholic,404.0,Xavier College,KEW,145.031105,-37.813858,2353000.0,250.0
+3101,11,Independent,457.0,Trinity Grammar School Kew,KEW,145.03550159999998,-37.81020316,2353000.0,250.0
+3101,11,Catholic,733.0,Genazzano FCJ College,KEW,145.05578300000002,-37.808972999999995,2353000.0,250.0
+3101,11,Independent,1189.0,Carey Baptist Grammar School,KEW,145.04781699999998,-37.814784,2353000.0,250.0
+3101,11,Independent,1377.0,"Preshil, The Margaret Lyttle Memorial School",KEW,145.052212,-37.815934000000006,2353000.0,250.0
+3101,11,Independent,1647.0,St Paul's College Balwyn,BALWYN,145.086858,-37.81235,2353000.0,250.0
+3101,11,Independent,1838.0,Andale School,KEW,145.036044,-37.805513,2353000.0,250.0
+3101,11,Independent,2105.0,Giant Steps Melbourne,KEW,145.031476,-37.80222,2353000.0,250.0
+3102,3,Government,3161.0,Kew East Primary School,Kew East,145.049151,-37.796473,1785000.0,74.0
+3102,3,Government,7950.0,Kew High School,Kew East,145.063358,-37.795546,1785000.0,74.0
+3102,3,Catholic,1328.0,St Anne's School,KEW EAST,145.049813,-37.79538,1785000.0,74.0
+3103,5,Government,1026.0,Balwyn Primary School,Balwyn,145.081378,-37.813938,2310000.0,156.0
+3103,5,Government,3680.0,Deepdene Primary School,Deepdene,145.061355,-37.808366,2310000.0,156.0
+3103,5,Government,4675.0,Belmore School,Balwyn,145.081145,-37.804284,2310000.0,156.0
+3103,5,Independent,385.0,Fintona Girls' School,BALWYN,145.080326,-37.815158000000004,2310000.0,156.0
+3103,5,Catholic,1206.0,Our Lady of Good Counsel School,DEEPDENE,145.06278999999998,-37.811081,2310000.0,156.0
+3104,7,Government,4638.0,Balwyn North Primary School,Balwyn North,145.077044,-37.796699,1945000.0,299.0
+3104,7,Government,4694.0,Greythorn Primary School,Balwyn North,145.09596299999998,-37.801427000000004,1945000.0,299.0
+3104,7,Government,4733.0,Belle Vue Primary School,Balwyn North,145.078653,-37.782523,1945000.0,299.0
+3104,7,Government,5288.0,Boroondara Park Primary School,Balwyn North,145.08789299999998,-37.789437,1945000.0,299.0
+3104,7,Government,7550.0,Balwyn High School,Balwyn North,145.0767724,-37.79785922,1945000.0,299.0
+3104,7,Catholic,1482.0,St Bede's School,BALWYN NORTH,145.070901,-37.793523,1945000.0,299.0
+3104,7,Catholic,1595.0,St Bridget's School,BALWYN NORTH,145.103253,-37.795925,1945000.0,299.0
+3105,3,Government,5099.0,Bulleen Heights School,Bulleen,145.09506000000002,-37.763284999999996,1159000.0,123.0
+3105,3,Catholic,1495.0,Marcellin College,BULLEEN,145.082675,-37.774782,1159000.0,123.0
+3105,3,Catholic,1640.0,St Clement of Rome School,BULLEEN,145.09033300000002,-37.767296,1159000.0,123.0
+3106,3,Government,5129.0,Templestowe Park Primary School,Templestowe,145.143259,-37.756273,1431000.0,166.0
+3106,3,Government,5168.0,Serpell Primary School,Templestowe,145.155574,-37.769901000000004,1431000.0,166.0
+3106,3,Catholic,1861.0,St Charles Borromeo School,TEMPLESTOWE,145.153432,-37.767398,1431000.0,166.0
+3107,3,Government,4985.0,Templestowe Valley Primary School,Lower Templestowe,145.10938000000002,-37.760611,1175000.0,165.0
+3107,3,Government,5004.0,Templestowe Heights Primary School,Templestowe Lower,145.119353,-37.767214,1175000.0,165.0
+3107,3,Government,8823.0,Templestowe College,Templestowe Lower,145.122306,-37.767428,1175000.0,165.0
+3108,4,Government,197.0,Doncaster Primary School,Doncaster,145.129673,-37.786804,1258000.0,235.0
+3108,4,Government,4991.0,Birralee Primary School,Doncaster,145.113348,-37.793418,1258000.0,235.0
+3108,4,Government,7776.0,Doncaster Secondary College,Doncaster,145.138053,-37.784581,1258000.0,235.0
+3108,4,Catholic,1678.0,St Gregory the Great School,DONCASTER,145.122282,-37.780598,1258000.0,235.0
+3109,6,Government,4813.0,Beverley Hills Primary School,Doncaster East,145.159841,-37.796243,1255000.0,323.0
+3109,6,Government,5019.0,Donburn Primary School,Doncaster East,145.165525,-37.787456,1255000.0,323.0
+3109,6,Government,5212.0,Milgate Primary School,Doncaster East,145.175188,-37.773798,1255000.0,323.0
+3109,6,Government,5454.0,Doncaster Gardens Primary School,Doncaster East,145.1479,-37.781607,1255000.0,323.0
+3109,6,Government,7773.0,East Doncaster Secondary College,Doncaster East,145.158557,-37.782127,1255000.0,323.0
+3109,6,Catholic,1604.0,Ss Peter & Paul's School,DONCASTER EAST,145.1534,-37.790552000000005,1255000.0,323.0
+3111,5,Government,4871.0,Heatherwood School,Donvale,145.1780362,-37.80033733,1300000.0,120.0
+3111,5,Government,4961.0,Donvale Primary School,Donvale,145.173778,-37.800414,1300000.0,120.0
+3111,5,Catholic,1473.0,Whitefriars College Inc,DONVALE,145.19954099999998,-37.7918,1300000.0,120.0
+3111,5,Independent,1724.0,Donvale Christian College,DONVALE,145.193451,-37.774028,1300000.0,120.0
+3111,5,Catholic,1759.0,Our Lady of the Pines School,DONVALE,145.177211,-37.774442,1300000.0,120.0
+3113,3,Government,12.0,Warrandyte Primary School,Warrandyte,145.21398,-37.742675,1300000.0,75.0
+3113,3,Government,5104.0,Andersons Creek Primary School,Warrandyte,145.20768,-37.74822,1300000.0,75.0
+3113,3,Government,8437.0,Warrandyte High School,Warrandyte,145.184222,-37.748269,1300000.0,75.0
+3114,1,Government,4854.0,Park Orchards Primary School,Park Orchards,145.215918,-37.779519,1776000.0,58.0
+3116,2,Government,5194.0,Chirnside Park Primary School,Chirnside Park,145.311342,-37.750071000000005,800000.0,190.0
+3116,2,Independent,1792.0,Oxley Christian College,CHIRNSIDE PARK,145.30513,-37.763573,800000.0,190.0
+3121,9,Government,5044.0,Richmond West Primary School,Richmond,144.995735,-37.813626,1328000.0,301.0
+3121,9,Government,5269.0,Richmond Primary School,Richmond,144.99907340000001,-37.82956905,1328000.0,301.0
+3121,9,Government,5271.0,Yarra Primary School,Richmond,145.007482,-37.814639,1328000.0,301.0
+3121,9,Government,8003.0,Lynall Hall Community School,Richmond,145.00225700000001,-37.816477,1328000.0,301.0
+3121,9,Government,8271.0,Richmond High School,Richmond,145.002804,-37.817408,1328000.0,301.0
+3121,9,Government,8819.0,Melbourne Girls College,Richmond,145.01433400000002,-37.822507,1328000.0,301.0
+3121,9,Catholic,2036.0,Trinity Catholic School,RICHMOND NORTH,145.0082429,-37.81585217,1328000.0,301.0
+3121,9,Independent,2100.0,Melbourne Indigenous Transition School,RICHMOND,144.9892635,-37.81954365,1328000.0,301.0
+3121,9,Catholic,2240.0,Brosnan Learning Centre,RICHMOND,144.998477,-37.821915000000004,1328000.0,301.0
+3122,8,Government,293.0,Hawthorn West Primary School,Hawthorn,145.01837700000002,-37.820112,2328000.0,141.0
+3122,8,Government,1508.0,Glenferrie Primary School,Hawthorn,145.033974,-37.824048,2328000.0,141.0
+3122,8,Government,7366.0,Swinburne Senior Secondary College,Hawthorn,145.040821,-37.823135,2328000.0,141.0
+3122,8,Catholic,148.0,St Joseph's School,HAWTHORN,145.034315,-37.826461,2328000.0,141.0
+3122,8,Independent,1021.0,Scotch College,HAWTHORN,145.032288,-37.833921999999994,2328000.0,141.0
+3122,8,Independent,1559.0,Rossbourne School,HAWTHORN,145.02655,-37.82304,2328000.0,141.0
+3122,8,Independent,1626.0,Bialik College,HAWTHORN EAST,145.043371,-37.842269,2328000.0,141.0
+3122,8,Independent,1952.0,Erasmus Primary School,HAWTHORN,145.031327,-37.827083,2328000.0,141.0
+3123,5,Government,2948.0,Auburn Primary School,Hawthorn East,145.050484,-37.820278,2050000.0,132.0
+3123,5,Government,4183.0,Auburn South Primary School,Hawthorn East,145.045894,-37.839263,2050000.0,132.0
+3123,5,Government,7526.0,Auburn High School,Hawthorn East,145.045067,-37.83988,2050000.0,132.0
+3123,5,Independent,1981.0,Alia College,HAWTHORN EAST,145.045173,-37.843225,2050000.0,132.0
+3123,5,Independent,2114.0,SEDA College (Victoria),HAWTHORN EAST,145.05400600000002,-37.830714,2050000.0,132.0
+3124,3,Government,888.0,Camberwell Primary School,Camberwell,145.05804799999999,-37.832684,2030000.0,198.0
+3124,3,Government,4055.0,Hartwell Primary School,Camberwell,145.084466,-37.848051,2030000.0,198.0
+3124,3,Catholic,1445.0,Siena College Ltd,CAMBERWELL,145.082575,-37.833662,2030000.0,198.0
+3125,5,Government,3841.0,Wattle Park Primary School,Burwood,145.09736999999998,-37.842634999999994,1250000.0,141.0
+3125,5,Independent,554.0,Presbyterian Ladies' College,BURWOOD,145.107002,-37.848559,1250000.0,141.0
+3125,5,Catholic,1461.0,St Benedict's School,BURWOOD,145.09739960000002,-37.84949599,1250000.0,141.0
+3125,5,Independent,1490.0,Mount Scopus Memorial College,BURWOOD,145.117774,-37.847215999999996,1250000.0,141.0
+3125,5,Catholic,1598.0,St Scholastica's School,BENNETTSWOOD,145.125908,-37.851646,1250000.0,141.0
+3126,6,Government,3572.0,Canterbury Primary School,Canterbury,145.083144,-37.830963,2828000.0,98.0
+3126,6,Government,7680.0,Camberwell High School,Canterbury,145.072821,-37.830151,2828000.0,98.0
+3126,6,Government,7690.0,Canterbury Girls Secondary College,Canterbury,145.06910200000002,-37.820289,2828000.0,98.0
+3126,6,Independent,1209.0,Strathcona Baptist Girls' Grammar,CANTERBURY,145.080366,-37.829176000000004,2828000.0,98.0
+3126,6,Independent,1258.0,Camberwell Grammar School,CANTERBURY,145.066407,-37.816093,2828000.0,98.0
+3126,6,Independent,1322.0,Camberwell Girls Grammar School,CANTERBURY,145.059705,-37.818211,2828000.0,98.0
+3127,5,Government,2778.0,Surrey Hills Primary School,Surrey Hills,145.10090300000002,-37.825534000000005,1880000.0,141.0
+3127,5,Government,3943.0,Mont Albert Primary School,Mont Albert,145.10272700000002,-37.813078999999995,1880000.0,141.0
+3127,5,Government,4314.0,Chatham Primary School,Surrey Hills,145.091603,-37.817646999999994,1880000.0,141.0
+3127,5,Catholic,653.0,Our Holy Redeemer School,SURREY HILLS,145.100085,-37.820319,1880000.0,141.0
+3127,5,Catholic,1569.0,Our Lady of Perpetual Succour School,SURREY HILLS,145.111389,-37.830057000000004,1880000.0,141.0
+3128,4,Government,5419.0,Roberts McCubbin Primary School,Box Hill South,145.125206,-37.834767,1265000.0,103.0
+3128,4,Government,7635.0,Box Hill High School,Box Hill,145.13720800000002,-37.820003,1265000.0,103.0
+3128,4,Catholic,1287.0,Our Lady of Sion College,BOX HILL,145.129918,-37.818348,1265000.0,103.0
+3128,4,Independent,1304.0,Kingswood College,BOX HILL,145.118628,-37.832777,1265000.0,103.0
+3129,5,Government,4717.0,Box Hill North Primary School,Box Hill North,145.123311,-37.800792,1378000.0,69.0
+3129,5,Government,4816.0,Kerrimuir Primary School,Box Hill North,145.135249,-37.803678999999995,1378000.0,69.0
+3129,5,Government,7050.0,Box Hill Senior Secondary College,Mont Albert North,145.111907,-37.809243,1378000.0,69.0
+3129,5,Government,7954.0,Koonung Secondary College,Mont Albert North,145.11756100000002,-37.80219,1378000.0,69.0
+3129,5,Independent,1728.0,Berengarra School,BOX HILL NORTH,145.132142,-37.80388,1378000.0,69.0
+3130,11,Government,2923.0,Blackburn Primary School,Blackburn,145.15669599999998,-37.816565999999995,1160000.0,109.0
+3130,11,Government,4715.0,Old Orchard Primary School,Blackburn North,145.152511,-37.807567999999996,1160000.0,109.0
+3130,11,Government,4860.0,Blackburn Lake Primary School,Blackburn,145.166097,-37.827601,1160000.0,109.0
+3130,11,Government,4863.0,Laburnum Primary School,Blackburn,145.139208,-37.827098,1160000.0,109.0
+3130,11,Government,5285.0,Orchard Grove Primary School,Blackburn South,145.146528,-37.84023,1160000.0,109.0
+3130,11,Government,5511.0,Aurora School,Blackburn South,145.1507912,-37.84017872,1160000.0,109.0
+3130,11,Government,5530.0,Whitehorse Primary School,Blackburn North,145.16698630000002,-37.80746673,1160000.0,109.0
+3130,11,Government,7610.0,Blackburn High School,Blackburn,145.149893,-37.81037,1160000.0,109.0
+3130,11,Catholic,1522.0,St Thomas The Apostle School,BLACKBURN,145.157434,-37.823246999999995,1160000.0,109.0
+3130,11,Catholic,1628.0,St Luke the Evangelist School,BLACKBURN SOUTH,145.146714,-37.835551,1160000.0,109.0
+3130,11,Catholic,1652.0,St Philip's School,BLACKBURN NORTH,145.166588,-37.807643,1160000.0,109.0
+3131,4,Government,4808.0,Mount Pleasant Road Nunawading Primary School,Nunawading,145.180091,-37.828587,996000.0,116.0
+3131,4,Government,4881.0,Parkmore Primary School,Forest Hill,145.177183,-37.843844,996000.0,116.0
+3131,4,Independent,1508.0,Nunawading Christian College-Primary,NUNAWADING,145.17005,-37.82192,996000.0,116.0
+3131,4,Independent,1712.0,Nunawading Christian College-Secondary,NUNAWADING,145.16901830000003,-37.82254717,996000.0,116.0
+3132,4,Government,2904.0,Mitcham Primary School,Mitcham,145.19271899999998,-37.808986,1018000.0,167.0
+3132,4,Government,4844.0,Antonio Park Primary School,Mitcham,145.206002,-37.816188000000004,1018000.0,167.0
+3132,4,Government,5431.0,Rangeview Primary School,Mitcham,145.206302,-37.829577,1018000.0,167.0
+3132,4,Government,8744.0,Mullauna Secondary College,Mitcham,145.190155,-37.807109000000004,1018000.0,167.0
+3133,9,Government,1022.0,Vermont Primary School,Vermont,145.194296,-37.837359,1215000.0,112.0
+3133,9,Government,5025.0,Vermont South Special School,Vermont South,145.180596,-37.85114,1215000.0,112.0
+3133,9,Government,5113.0,Livingstone Primary School,Vermont South,145.18067,-37.85289,1215000.0,112.0
+3133,9,Government,5157.0,Weeden Heights Primary School,Vermont South,145.177637,-37.859159999999996,1215000.0,112.0
+3133,9,Government,8420.0,Vermont Secondary College,Vermont,145.199701,-37.844117,1215000.0,112.0
+3133,9,Catholic,1592.0,Emmaus College,VERMONT SOUTH,145.17410700000002,-37.84779,1215000.0,112.0
+3133,9,Catholic,1663.0,St Timothy's School,VERMONT,145.183654,-37.840389,1215000.0,112.0
+3133,9,Catholic,1681.0,St James' School,VERMONT,145.20969,-37.836748,1215000.0,112.0
+3133,9,Catholic,1751.0,Holy Saviour Parish School,VERMONT SOUTH,145.175038,-37.862336,1215000.0,112.0
+3134,11,Government,3476.0,Warranwood Primary School,Warranwood,145.246981,-37.774347,1000000.0,48.0
+3134,11,Government,4120.0,Ringwood North Primary School,Ringwood North,145.230739,-37.79313,1000000.0,48.0
+3134,11,Government,4886.0,Mullum Primary School,Ringwood,145.239443,-37.797737,1000000.0,48.0
+3134,11,Government,4911.0,Ringwood Heights Primary School,Ringwood North,145.21721200000002,-37.804226,1000000.0,48.0
+3134,11,Government,5121.0,Kalinda Primary School,Ringwood,145.254827,-37.7893,1000000.0,48.0
+3134,11,Government,8185.0,Norwood Secondary College,Ringwood,145.237605,-37.799752000000005,1000000.0,48.0
+3134,11,Government,8270.0,Ringwood Secondary College,Ringwood,145.239147,-37.816606,1000000.0,48.0
+3134,11,Catholic,1342.0,Our Lady of Perpetual Help School,RINGWOOD,145.232182,-37.816423,1000000.0,48.0
+3134,11,Catholic,1608.0,Aquinas College,RINGWOOD,145.234935,-37.823058,1000000.0,48.0
+3134,11,Independent,1658.0,Yarra Valley Grammar,RINGWOOD,145.258164,-37.783701,1000000.0,48.0
+3134,11,Independent,1706.0,Melbourne Rudolf Steiner School,WARRANWOOD,145.24881100000002,-37.777221000000004,1000000.0,48.0
+3135,7,Government,4702.0,Eastwood Primary School,Ringwood East,145.252949,-37.817239,866000.0,107.0
+3135,7,Government,4819.0,Heathmont East Primary School,Heathmont,145.257688,-37.830346,866000.0,107.0
+3135,7,Government,5045.0,Marlborough Primary School,Heathmont,145.23294199999998,-37.836412,866000.0,107.0
+3135,7,Government,5075.0,Tinternvale Primary School,Ringwood East,145.265345,-37.818406,866000.0,107.0
+3135,7,Government,5478.0,Great Ryrie Primary School,Heathmont,145.237626,-37.823797,866000.0,107.0
+3135,7,Government,8816.0,Heathmont College,Heathmont,145.2321036,-37.83842619,866000.0,107.0
+3135,7,Independent,1080.0,Tintern Grammar,RINGWOOD EAST,145.25669,-37.815515000000005,866000.0,107.0
+3136,12,Government,2900.0,Croydon Primary School,Croydon,145.281321,-37.793171,760000.0,73.0
+3136,12,Government,4219.0,Yarra Road Primary School,Croydon,145.27222700000002,-37.766401,760000.0,73.0
+3136,12,Government,4879.0,Ainslie Parklands Primary School,Croydon,145.264244,-37.793786,760000.0,73.0
+3136,12,Government,4916.0,Ruskin Park Primary School,Croydon,145.29616000000001,-37.798944,760000.0,73.0
+3136,12,Government,5132.0,Dorset Primary School,Croydon,145.285748,-37.810084,760000.0,73.0
+3136,12,Government,5210.0,Croydon Special Developmental School,Croydon South,145.28078100000002,-37.815627,760000.0,73.0
+3136,12,Government,5255.0,Croydon Hills Primary School,Croydon Hills,145.272045,-37.776679,760000.0,73.0
+3136,12,Government,7757.0,Croydon Community School,Croydon,145.278928,-37.798421999999995,760000.0,73.0
+3136,12,Government,8912.0,Melba Secondary College,Croydon,145.262016,-37.795522999999996,760000.0,73.0
+3136,12,Independent,1633.0,Luther College,CROYDON HILLS,145.272909,-37.782963,760000.0,73.0
+3136,12,Independent,1789.0,Good Shepherd Lutheran Primary School,CROYDON HILLS,145.26861499999998,-37.782683,760000.0,73.0
+3136,12,Independent,1836.0,Village School,CROYDON NORTH,145.294493,-37.763749,760000.0,73.0
+3138,10,Government,4937.0,Pembroke Primary School,Mooroolbark,145.327244,-37.796796,720000.0,343.0
+3138,10,Government,5009.0,Manchester Primary School,Mooroolbark,145.308401,-37.772265999999995,720000.0,343.0
+3138,10,Government,5011.0,Bimbadeen Heights Primary School,Mooroolbark,145.3211445,-37.77376388,720000.0,343.0
+3138,10,Government,5059.0,Mooroolbark East Primary School,Mooroolbark,145.33570500000002,-37.78680042,720000.0,343.0
+3138,10,Government,5241.0,Rolling Hills Primary School,Mooroolbark,145.32684,-37.766514,720000.0,343.0
+3138,10,Government,8071.0,Mooroolbark College,Mooroolbark,145.3142304,-37.77508326,720000.0,343.0
+3138,10,Government,8815.0,Yarra Hills Secondary College,Mooroolbark,145.31618400000002,-37.78934,720000.0,343.0
+3138,10,Catholic,1655.0,St Peter Julian Eymard,MOOROOLBARK,145.31751540000002,-37.787912799999994,720000.0,343.0
+3138,10,Independent,1816.0,Billanook College,MOOROOLBARK,145.33887009999998,-37.78785168,720000.0,343.0
+3138,10,Independent,1930.0,Yarralinda School,MOOROOLBARK,145.3250651,-37.76461019,720000.0,343.0
+3140,8,Government,876.0,Lilydale Primary School,Lilydale,145.35406809999998,-37.75367357,718000.0,251.0
+3140,8,Government,5057.0,Victoria Road Primary School,Lilydale,145.336107,-37.755181,718000.0,251.0
+3140,8,Government,7219.0,Lilydale Heights College,Lilydale,145.34140680000002,-37.745822100000005,718000.0,251.0
+3140,8,Government,7995.0,Lilydale High School,Lilydale,145.343917,-37.760697,718000.0,251.0
+3140,8,Catholic,474.0,Mount Lilydale Mercy College,LILYDALE,145.3577545,-37.75075881,718000.0,251.0
+3140,8,Catholic,567.0,St Patrick's School,LILYDALE,145.35261450000002,-37.75273475,718000.0,251.0
+3140,8,Independent,2091.0,Cire Community School | Cire Training,LILYDALE,145.350541,-37.757397,718000.0,251.0
+3140,8,Independent,2104.0,Edinburgh College,LILYDALE,145.351985,-37.784890000000004,718000.0,251.0
+3141,5,Government,583.0,South Yarra Primary School,South Yarra,144.98561899999999,-37.841353000000005,1895000.0,141.0
+3141,5,Government,8025.0,Melbourne High School,South Yarra,144.99531399999998,-37.836828999999994,1895000.0,141.0
+3141,5,Independent,330.0,Christ Church Grammar School,SOUTH YARRA,144.985738,-37.838952,1895000.0,141.0
+3141,5,Independent,509.0,Melbourne Girls Grammar,SOUTH YARRA,144.984803,-37.831692,1895000.0,141.0
+3141,5,Independent,1999.0,Kamaruka,SOUTH YARRA,144.99767869999997,-37.83761581,1895000.0,141.0
+3142,3,Government,3016.0,Toorak Primary School,Toorak,145.00990900000002,-37.845076,4500000.0,131.0
+3142,3,Catholic,1226.0,Loreto Mandeville Hall,TOORAK,145.014892,-37.848193,4500000.0,131.0
+3142,3,Catholic,1415.0,St Kevin's College,TOORAK,145.0246967,-37.8353971,4500000.0,131.0
+3143,3,Government,2634.0,Armadale Primary School,Armadale,145.017773,-37.852185999999996,2523000.0,81.0
+3143,3,Independent,391.0,Lauriston Girls' School,ARMADALE,145.02508899999998,-37.852317,2523000.0,81.0
+3143,3,Independent,1773.0,The King David School,ARMADALE,145.010495,-37.858226,2523000.0,81.0
+3144,2,Government,1604.0,Malvern Central School,Malvern,145.034401,-37.856009,2613000.0,112.0
+3144,2,Catholic,956.0,De La Salle College,MALVERN,145.032183,-37.857677,2613000.0,112.0
+3145,5,Government,2586.0,Malvern Primary School,Malvern East,145.03845800000002,-37.871592,1870000.0,224.0
+3145,5,Government,4139.0,Lloyd Street Primary School,Malvern East,145.056108,-37.872415999999994,1870000.0,224.0
+3145,5,Government,4669.0,Malvern Valley Primary School,Malvern East,145.08149,-37.880703999999994,1870000.0,224.0
+3145,5,Government,8704.0,Glen Eira College,Caulfield East,145.038006,-37.8857,1870000.0,224.0
+3145,5,Independent,1711.0,The Currajong School,MALVERN EAST,145.059946,-37.875953,1870000.0,224.0
+3146,6,Government,1148.0,Glen Iris Primary School,Glen Iris,145.065894,-37.860483,2100000.0,261.0
+3146,6,Government,4170.0,Camberwell South Primary School,Glen Iris,145.062612,-37.847905,2100000.0,261.0
+3146,6,Independent,5.0,Korowa Anglican Girls' School,GLEN IRIS,145.054637,-37.861453999999995,2100000.0,261.0
+3146,6,Catholic,149.0,Sacre Coeur,GLEN IRIS,145.051572,-37.861753,2100000.0,261.0
+3146,6,Catholic,1311.0,St Roch's School,GLEN IRIS,145.052313,-37.857364000000004,2100000.0,261.0
+3146,6,Catholic,1354.0,St Cecilia's School,GLEN IRIS,145.064602,-37.850094,2100000.0,261.0
+3147,6,Government,4317.0,Ashburton Primary School,Ashburton,145.083622,-37.862199,1250000.0,77.0
+3147,6,Government,4641.0,Solway Primary School,Ashburton,145.07283,-37.873238,1250000.0,77.0
+3147,6,Government,5097.0,Ashwood School,Ashwood,145.10716200000002,-37.859665,1250000.0,77.0
+3147,6,Government,5416.0,Parkhill Primary School,Ashwood,145.10687099999998,-37.86288,1250000.0,77.0
+3147,6,Government,8743.0,Ashwood High School,Ashwood,145.103328,-37.864527,1250000.0,77.0
+3147,6,Independent,1852.0,Frank Dando Sports Academy,ASHWOOD,145.108886,-37.8668,1250000.0,77.0
+3148,2,Catholic,1485.0,Salesian College,CHADSTONE,145.100257,-37.882735,991000.0,91.0
+3148,2,Catholic,1529.0,St Mary Magdalen's Parish Primary School,CHADSTONE,145.101198,-37.879776,991000.0,91.0
+3149,10,Government,3432.0,Mount Waverley Primary School,Mount Waverley,145.124111,-37.881266,1290000.0,361.0
+3149,10,Government,4832.0,Mount Waverley Heights Primary School,Mount Waverley,145.11184,-37.888999,1290000.0,361.0
+3149,10,Government,4874.0,Pinewood Primary School,Mount Waverley,145.142339,-37.890118,1290000.0,361.0
+3149,10,Government,4903.0,Essex Heights Primary School,Mount Waverley,145.115635,-37.862991,1290000.0,361.0
+3149,10,Government,4924.0,Syndal South Primary School,Mount Waverley,145.143301,-37.879086,1290000.0,361.0
+3149,10,Government,5430.0,Mount Waverley North Primary School,Mount Waverley,145.141352,-37.868017,1290000.0,361.0
+3149,10,Government,8105.0,Mount Waverley Secondary College,Mount Waverley,145.13231100000002,-37.869085999999996,1290000.0,361.0
+3149,10,Independent,1267.0,Huntingtower School,MT WAVERLEY,145.13628799999998,-37.876740999999996,1290000.0,361.0
+3149,10,Catholic,1565.0,Holy Family School,MOUNT WAVERLEY,145.129634,-37.874255,1290000.0,361.0
+3149,10,Catholic,1651.0,Avila College,MOUNT WAVERLEY,145.133255,-37.874671,1290000.0,361.0
+3150,21,Government,4923.0,Mount View Primary School,Glen Waverley,145.178805,-37.883485,1250000.0,168.0
+3150,21,Government,4968.0,Glenallen School,Glen Waverley,145.16174650000002,-37.8883595,1250000.0,168.0
+3150,21,Government,4986.0,Highvale Primary School,Glen Waverley,145.174068,-37.867021,1250000.0,168.0
+3150,21,Government,5010.0,Glendal Primary School,Glen Waverley,145.159037,-37.867082,1250000.0,168.0
+3150,21,Government,5038.0,Brandon Park Primary School,Wheelers Hill,145.173248,-37.914319,1250000.0,168.0
+3150,21,Government,5094.0,Wheelers Hill Primary School,Wheelers Hill,145.177594,-37.90017,1250000.0,168.0
+3150,21,Government,5105.0,Waverley Meadows Primary School,Wheelers Hill,145.184278,-37.914752,1250000.0,168.0
+3150,21,Government,5111.0,Camelot Rise Primary School,Glen Waverley,145.187775,-37.865278,1250000.0,168.0
+3150,21,Government,5151.0,Monash Special Developmental School,Wheelers Hill,145.1657962,-37.9069788,1250000.0,168.0
+3150,21,Government,5176.0,Jells Park Primary School,Wheelers Hill,145.192851,-37.902837,1250000.0,168.0
+3150,21,Government,5425.0,Glen Waverley Primary School,Glen Waverley,145.167589,-37.874716,1250000.0,168.0
+3150,21,Government,5436.0,Glen Waverley South Primary School,Glen Waverley,145.16761090000003,-37.89685885,1250000.0,168.0
+3150,21,Government,7647.0,Brentwood Secondary College,Glen Waverley,145.16634319999997,-37.89950842,1250000.0,168.0
+3150,21,Government,7918.0,Highvale Secondary College,Glen Waverley,145.17682,-37.865409,1250000.0,168.0
+3150,21,Government,8474.0,Wheelers Hill Secondary College,Wheelers Hill,145.18174299999998,-37.910126,1250000.0,168.0
+3150,21,Government,8808.0,Glen Waverley Secondary College,Glen Waverley,145.162106,-37.878098,1250000.0,168.0
+3150,21,Catholic,1596.0,St Leonard's School,GLEN WAVERLEY,145.163894,-37.886803,1250000.0,168.0
+3150,21,Catholic,1600.0,St Christopher's School,GLEN WAVERLEY,145.15019750000002,-37.87109838,1250000.0,168.0
+3150,21,Catholic,1682.0,Good Shepherd School,WHEELERS HILL,145.166052,-37.908122999999996,1250000.0,168.0
+3150,21,Independent,1743.0,Cheshire School,GLEN WAVERLEY,145.15809199999998,-37.902842,1250000.0,168.0
+3150,21,Catholic,1882.0,St Justin's School,WHEELERS HILL,145.190508,-37.917811,1250000.0,168.0
+3151,5,Government,454.0,Burwood East Primary School,Burwood East,145.15180700000002,-37.859734,1100000.0,102.0
+3151,5,Government,4932.0,Burwood Heights Primary School,Burwood East,145.163275,-37.846754,1100000.0,102.0
+3151,5,Government,5225.0,Burwood East Special Developmental School,Burwood East,145.142122,-37.857201,1100000.0,102.0
+3151,5,Government,8724.0,Forest Hill College,Burwood East,145.163728,-37.848519,1100000.0,102.0
+3151,5,Government,8747.0,Blackburn English Language School,Burwood East,145.148292,-37.847889,1100000.0,102.0
+3152,12,Government,3709.0,Wantirna Primary School,Wantirna,145.216509,-37.856256,1020000.0,155.0
+3152,12,Government,4582.0,Wantirna South Primary School,Wantirna South,145.237339,-37.872529,1020000.0,155.0
+3152,12,Government,5131.0,Regency Park Primary School,Wantirna,145.236165,-37.854873,1020000.0,155.0
+3152,12,Government,5196.0,Templeton Primary School,Wantirna,145.23228799999998,-37.860941,1020000.0,155.0
+3152,12,Government,5234.0,Knox Gardens Primary School,Wantirna South,145.229582,-37.882282000000004,1020000.0,155.0
+3152,12,Government,8428.0,Wantirna College,Wantirna,145.229974,-37.857597999999996,1020000.0,155.0
+3152,12,Catholic,1669.0,St Mary's College for the Deaf,WANTIRNA SOUTH,145.242789,-37.877901,1020000.0,155.0
+3152,12,Independent,1771.0,Waverley Christian College,WANTIRNA SOUTH,145.215299,-37.880134999999996,1020000.0,155.0
+3152,12,Catholic,1782.0,St Luke's School,WANTIRNA,145.235066,-37.853378,1020000.0,155.0
+3152,12,Independent,1841.0,The Knox School,WANTIRNA SOUTH,145.219198,-37.865466999999995,1020000.0,155.0
+3152,12,Independent,1871.0,St Andrews Christian College,WANTIRNA SOUTH,145.244636,-37.873866,1020000.0,155.0
+3152,12,Catholic,1893.0,Holy Trinity School,WANTIRNA SOUTH,145.24291200000002,-37.877468,1020000.0,155.0
+3153,5,Government,2163.0,Bayswater Primary School,Bayswater,145.25935800000002,-37.843305,719000.0,126.0
+3153,5,Government,4143.0,Bayswater North Primary School,Bayswater North,145.29562099999998,-37.8288,719000.0,126.0
+3153,5,Government,4973.0,Bayswater South Primary School,Bayswater,145.261347,-37.854896999999994,719000.0,126.0
+3153,5,Government,5039.0,Bayswater West Primary School,Bayswater,145.253048,-37.849069,719000.0,126.0
+3153,5,Government,7560.0,Bayswater Secondary College,Bayswater,145.261998,-37.83903,719000.0,126.0
+3155,5,Government,4908.0,Boronia West Primary School,Boronia,145.278481,-37.858563000000004,715000.0,317.0
+3155,5,Government,4967.0,Boronia Heights Primary School,Boronia,145.29648500000002,-37.844571,715000.0,317.0
+3155,5,Government,5429.0,Knox Central Primary School,Boronia,145.254975,-37.86116,715000.0,317.0
+3155,5,Government,8913.0,Boronia K-12 College,Boronia,145.29326799999998,-37.8583,715000.0,317.0
+3155,5,Catholic,1641.0,St Joseph's Primary School,BORONIA,145.274814,-37.862707,715000.0,317.0
+3156,11,Government,1866.0,Lysterfield Primary School,Lysterfield,145.276229,-37.911598,750000.0,54.0
+3156,11,Government,3926.0,Upper Ferntree Gully Primary School,Upper Ferntree Gully,145.314325,-37.895604,750000.0,54.0
+3156,11,Government,4718.0,Ferntree Gully North Primary School,Ferntree Gully,145.299422,-37.874787,750000.0,54.0
+3156,11,Government,4905.0,Mountain Gate Primary School,Ferntree Gully,145.269706,-37.885690999999994,750000.0,54.0
+3156,11,Government,4906.0,Fairhills Primary School,Ferntree Gully,145.264799,-37.8696,750000.0,54.0
+3156,11,Government,5012.0,Wattle View Primary School,Ferntree Gully,145.27801599999998,-37.875825,750000.0,54.0
+3156,11,Government,5082.0,Kent Park Primary School,Ferntree Gully,145.262733,-37.883491,750000.0,54.0
+3156,11,Government,5309.0,Eastern Ranges School,Ferntree Gully,145.2849193,-37.88042006,750000.0,54.0
+3156,11,Catholic,1406.0,St John the Baptist School,FERNTREE GULLY,145.295174,-37.887382,750000.0,54.0
+3156,11,Catholic,1646.0,St Joseph's College,FERNTREE GULLY,145.29509299999998,-37.89049,750000.0,54.0
+3156,11,Independent,2071.0,Heritage College Knox,FERNTREE GULLY,145.28648700000002,-37.887291,750000.0,54.0
+3158,3,Government,4530.0,Upwey Primary School,Upwey,145.33280269999997,-37.90286736,795000.0,72.0
+3158,3,Government,4894.0,Upwey South Primary School,Upwey,145.32683930000002,-37.91313917,795000.0,72.0
+3158,3,Government,8415.0,Upwey High School,Upwey,145.335475,-37.904357,795000.0,72.0
+3160,4,Government,3356.0,Tecoma Primary School,Tecoma,145.3449218,-37.90695837,782000.0,28.0
+3160,4,Government,3551.0,Belgrave South Primary School,Belgrave South,145.35792030000002,-37.93119813,782000.0,28.0
+3160,4,Catholic,1644.0,Mater Christi College,BELGRAVE,145.3588871,-37.9106377,782000.0,28.0
+3160,4,Independent,1864.0,Belgrave Heights Christian School,BELGRAVE HEIGHTS,145.34622919999998,-37.91890282,782000.0,28.0
+3161,3,Government,3820.0,Caulfield Junior College,Caulfield North,145.02156100000002,-37.87211,1913000.0,120.0
+3161,3,Government,8337.0,Oakwood School,Caulfield North,145.034173,-37.873979999999996,1913000.0,120.0
+3161,3,Independent,1163.0,Shelford Girls' Grammar,CAULFIELD,145.011318,-37.877908000000005,1913000.0,120.0
+3162,4,Government,4315.0,Caulfield South Primary School,Caulfield South,145.030799,-37.895253000000004,1653000.0,132.0
+3162,4,Government,5489.0,Caulfield Primary School,Caulfield South,145.02003080000003,-37.888054,1653000.0,132.0
+3162,4,Independent,1902.0,Japanese School of Melbourne,CAULFIELD SOUTH,145.019402,-37.892445,1653000.0,132.0
+3162,4,Independent,2077.0,Melbourne Montessori School,CAULFIELD SOUTH,145.025671,-37.888166999999996,1653000.0,132.0
+3163,3,Government,2897.0,Carnegie Primary School,Carnegie,145.054505,-37.890739,1208000.0,20.0
+3163,3,Government,3449.0,Murrumbeena Primary School,Murrumbeena,145.070409,-37.88617,1208000.0,20.0
+3163,3,Government,3703.0,Glen Huntly Primary School,Glen Huntly,145.0462294,-37.89377084,1208000.0,20.0
+3165,6,Government,4712.0,Coatesville Primary School,Bentleigh East,145.073631,-37.920083,1273000.0,394.0
+3165,6,Government,4778.0,Valkstone Primary School,Bentleigh East,145.057169,-37.914608,1273000.0,394.0
+3165,6,Government,4837.0,East Bentleigh Primary School,Bentleigh East,145.069424,-37.934506,1273000.0,394.0
+3165,6,Government,5253.0,Southern Autistic School,East Bentleigh,145.0620819,-37.92671866,1273000.0,394.0
+3165,6,Government,7255.0,Bentleigh Secondary College,Bentleigh East,145.059798,-37.927357,1273000.0,394.0
+3165,6,Catholic,1685.0,St James'  College,BENTLEIGH EAST,145.071365,-37.926472,1273000.0,394.0
+3167,3,Government,4716.0,Huntingdale Primary School,Oakleigh South,145.102359,-37.913075,980000.0,93.0
+3167,3,Government,4823.0,Oakleigh South Primary School,Oakleigh South,145.0947041,-37.92220601,980000.0,93.0
+3167,3,Government,8801.0,South Oakleigh Secondary College,Oakleigh South,145.089768,-37.92232068,980000.0,93.0
+3168,3,Government,734.0,Clayton North Primary School,Clayton,145.12266599999998,-37.911944,955000.0,14.0
+3168,3,Government,6364.0,Monash Children's Hospital School,Clayton,145.124252,-37.91938,955000.0,14.0
+3168,3,Catholic,1531.0,St Peter's School,CLAYTON,145.121859,-37.923140000000004,955000.0,14.0
+3169,6,Government,3336.0,Clarinda Primary School,Clarinda,145.102924,-37.926995,782000.0,103.0
+3169,6,Government,4384.0,Clayton South Primary School,Clayton South,145.11643999999998,-37.940477,782000.0,103.0
+3169,6,Government,4851.0,Westall Primary School,Clayton South,145.135744,-37.942188,782000.0,103.0
+3169,6,Government,8470.0,Westall Secondary College,Clayton South,145.136577,-37.940312,782000.0,103.0
+3169,6,Independent,2099.0,Heatherton Christian College,CLARINDA,145.11136100000002,-37.957840000000004,782000.0,103.0
+3169,6,Independent,2227.0,Fitra Community School,CLAYTON SOUTH,145.139319,-37.944839,782000.0,103.0
+3170,4,Government,2172.0,Mulgrave Primary School,Mulgrave,145.19736699999999,-37.932946,890000.0,212.0
+3170,4,Government,5427.0,Albany Rise Primary School,Mulgrave,145.172891,-37.928121999999995,890000.0,212.0
+3170,4,Government,8462.0,Wellington Secondary College,Mulgrave,145.169378,-37.934467,890000.0,212.0
+3170,4,Catholic,1673.0,Mazenod College,MULGRAVE,145.166144,-37.915203999999996,890000.0,212.0
+3171,6,Government,4802.0,Heatherhill Primary School,Springvale,145.158148,-37.962648,735000.0,161.0
+3171,6,Government,5164.0,Springvale Park Special Developmental School,Springvale,145.1543122,-37.94935521,735000.0,161.0
+3171,6,Government,5537.0,Springvale Rise Primary School,Springvale,145.159045,-37.939258,735000.0,161.0
+3171,6,Government,5538.0,Spring Parks Primary School,Springvale,145.139507,-37.958843,735000.0,161.0
+3171,6,Catholic,1547.0,Killester College,SPRINGVALE,145.152017,-37.959071,735000.0,161.0
+3171,6,Independent,1936.0,Minaret College,SPRINGVALE,145.148625,-37.939040000000006,735000.0,161.0
+3172,6,Government,4257.0,Dingley Primary School,Dingley Village,145.132498,-37.982602,728000.0,83.0
+3172,6,Government,5106.0,Kingswood Primary School,Dingley Village,145.123796,-37.982996,728000.0,83.0
+3172,6,Government,5534.0,Keysborough Primary School,Springvale South,145.15241799999998,-37.982628999999996,728000.0,83.0
+3172,6,Government,5536.0,Athol Road Primary School,Springvale South,145.149968,-37.971049,728000.0,83.0
+3172,6,Government,8867.0,Keysborough Secondary College,Springvale South,145.15983899999998,-37.967017,728000.0,83.0
+3172,6,Independent,2102.0,Hoa Nghiem Primary School,SPRINGVALE SOUTH,145.1487888,-37.96694215,728000.0,83.0
+3173,6,Government,5533.0,Chandler Park Primary School,Keysborough,145.180477,-37.992396,800000.0,282.0
+3173,6,Government,5572.0,Keysborough Gardens Primary School,Keysborough,145.161324,-38.009508000000004,800000.0,282.0
+3173,6,Independent,1191.0,Haileybury College,KEYSBOROUGH,145.14643,-37.995979,800000.0,282.0
+3173,6,Independent,1923.0,Lighthouse Christian College,KEYSBOROUGH,145.14350100000001,-38.001204,800000.0,282.0
+3173,6,Independent,1990.0,Mt Hira College,KEYSBOROUGH,145.175471,-38.013991,800000.0,282.0
+3173,6,Independent,2009.0,Haileybury Girls College,KEYSBOROUGH,145.1447668,-37.99554667,800000.0,282.0
+3174,10,Government,3675.0,Noble Park Primary School,Noble Park,145.17390600000002,-37.970627,670000.0,59.0
+3174,10,Government,4730.0,Harrisfield Primary School,Noble Park,145.17989599999999,-37.954443,670000.0,59.0
+3174,10,Government,4807.0,Yarraman Oaks Primary School,Noble Park,145.191525,-37.970289,670000.0,59.0
+3174,10,Government,5055.0,Wallarano Primary School,Noble Park,145.17082299999998,-37.979621,670000.0,59.0
+3174,10,Government,5120.0,Silverton Primary School,Noble Park North,145.192882,-37.949228999999995,670000.0,59.0
+3174,10,Government,5435.0,Carwatha College P-12,Noble Park,145.188726,-37.942845,670000.0,59.0
+3174,10,Government,8749.0,Noble Park English Language School,Noble Park,145.178166,-37.971168,670000.0,59.0
+3174,10,Government,8813.0,Noble Park Secondary College,Noble Park,145.182369,-37.970209000000004,670000.0,59.0
+3174,10,Catholic,1899.0,Nazareth College,NOBLE PARK NORTH,145.195459,-37.940226,670000.0,59.0
+3174,10,Independent,2018.0,Berry Street Victoria Inc,NOBLE PARK,145.190186,-37.981547,670000.0,59.0
+3177,1,Government,8905.0,Doveton College,Doveton,145.24317299999998,-37.989449,565000.0,22.0
+3178,6,Government,5000.0,Rowville Primary School,Rowville,145.237108,-37.922924,871000.0,362.0
+3178,6,Government,5281.0,Park Ridge Primary School,Rowville,145.262461,-37.918414,871000.0,362.0
+3178,6,Government,5295.0,Karoo Primary School,Rowville,145.263279,-37.905324,871000.0,362.0
+3178,6,Government,5345.0,Heany Park Primary School,Rowville,145.24288,-37.933923,871000.0,362.0
+3178,6,Government,8734.0,Rowville Secondary College,Rowville,145.2370885,-37.92388682,871000.0,362.0
+3178,6,Catholic,1830.0,St Simon's School,ROWVILLE,145.245327,-37.925677,871000.0,362.0
+3179,3,Government,1028.0,Scoresby Primary School,Scoresby,145.227501,-37.89395,850000.0,51.0
+3179,3,Government,8307.0,Scoresby Secondary College,Scoresby,145.2362,-37.888642,850000.0,51.0
+3179,3,Catholic,1697.0,St Jude the Apostle School,SCORESBY,145.225957,-37.889844000000004,850000.0,51.0
+3180,3,Government,4990.0,Knox Park Primary School,Knoxfield,145.251402,-37.883627000000004,830000.0,93.0
+3180,3,Government,5426.0,Carrington Primary School,Knoxfield,145.246491,-37.891476000000004,830000.0,93.0
+3180,3,Government,7823.0,Fairhills High School,Knoxfield,145.259037,-37.87321,830000.0,93.0
+3181,4,Government,1896.0,Windsor Primary School,Windsor,144.995689,-37.857298,1395000.0,57.0
+3181,4,Government,8231.0,Prahran High School,Windsor,144.9911611,-37.85174882,1395000.0,57.0
+3181,4,Catholic,106.0,Presentation College Windsor,WINDSOR,144.99471880000002,-37.85764134,1395000.0,57.0
+3181,4,Catholic,1176.0,Our Lady of Lourdes School,PRAHRAN EAST,145.009457,-37.852457,1395000.0,57.0
+3182,4,Government,1479.0,St Kilda Primary School,St Kilda,144.98901899999998,-37.870222999999996,2313000.0,24.0
+3182,4,Government,2460.0,St Kilda Park Primary School,St Kilda,144.977794,-37.858117,2313000.0,24.0
+3182,4,Independent,818.0,St Michael's Grammar School,ST KILDA,144.991548,-37.859549,2313000.0,24.0
+3182,4,Independent,2116.0,Cheder Levi Yitzchok Inc,ST KILDA,144.99191000000002,-37.860566999999996,2313000.0,24.0
+3183,5,Government,4087.0,Ripponlea Primary School,St Kilda East,145.005054,-37.874608,1670000.0,57.0
+3183,5,Catholic,26.0,St Mary’s College Melbourne,ST KILDA EAST,144.997001,-37.859365000000004,1670000.0,57.0
+3183,5,Independent,96.0,Caulfield Grammar School,ST KILDA EAST,145.00488700000002,-37.877377,1670000.0,57.0
+3183,5,Independent,1533.0,Yeshivah College,ST KILDA EAST,145.000341,-37.868122,1670000.0,57.0
+3183,5,Independent,1561.0,Beth Rivkah Ladies College,ST KILDA EAST,145.00083500000002,-37.869281,1670000.0,57.0
+3184,4,Government,3942.0,Elwood Primary School,Elwood,144.988364,-37.881505,2050000.0,122.0
+3184,4,Government,7810.0,Elwood College,Elwood,144.985203,-37.88232,2050000.0,122.0
+3184,4,Catholic,1070.0,St Columba's School,ELWOOD,144.981123,-37.882529999999996,2050000.0,122.0
+3184,4,Independent,2019.0,Yesodei HaTorah College,ELWOOD,144.983491,-37.873227,2050000.0,122.0
+3185,3,Independent,1515.0,Adass Israel School,ELSTERNWICK,145.008205,-37.883899,1681000.0,10.0
+3185,3,Independent,1609.0,Leibler Yavneh College,ELSTERNWICK,145.006626,-37.892871,1681000.0,10.0
+3185,3,Independent,1729.0,Sholem Aleichem College,ELSTERNWICK,145.001203,-37.882289,1681000.0,10.0
+3187,4,Government,3897.0,Gardenvale Primary School,Brighton East,145.015034,-37.904678999999994,2001000.0,241.0
+3187,4,Government,7650.0,Brighton Secondary College,Brighton East,145.019119,-37.920156,2001000.0,241.0
+3187,4,Independent,1025.0,St Leonard's College,BRIGHTON EAST,145.007554,-37.928631,2001000.0,241.0
+3187,4,Catholic,1221.0,St Finbar's School,BRIGHTON EAST,145.017464,-37.916284000000005,2001000.0,241.0
+3188,3,Government,3754.0,Hampton Primary School,Hampton,145.003476,-37.93339,1285000.0,100.0
+3188,3,Government,4928.0,Berendale School,Hampton East,145.031808,-37.938959000000004,1285000.0,100.0
+3188,3,Independent,2232.0,Tombolo Academy,HAMPTON,145.023502,-37.938465,1285000.0,100.0
+3189,5,Government,1111.0,Moorabbin Primary School,Moorabbin,145.039587,-37.94202,1136000.0,69.0
+3189,5,Government,4910.0,Southmoor Primary School,Moorabbin,145.05696899999998,-37.941178,1136000.0,69.0
+3189,5,Government,5240.0,Bayside Special Developmental School,Moorabbin,145.056804,-37.943358,1136000.0,69.0
+3189,5,Government,6363.0,Avenues Education,Moorabbin,145.036279,-37.934579,1136000.0,69.0
+3189,5,Catholic,1570.0,St Catherine's School,MOORABBIN,145.052171,-37.938224,1136000.0,69.0
+3190,1,Catholic,1503.0,St Agnes' School,HIGHETT,145.031826,-37.946096000000004,1260000.0,165.0
+3191,3,Government,267.0,Sandringham Primary School,Sandringham,145.02342,-37.951358,1835000.0,118.0
+3191,3,Government,4429.0,Sandringham East Primary School,Sandringham,145.022221,-37.956668,1835000.0,118.0
+3191,3,Government,8739.0,Sandringham College,Sandringham,145.023034,-37.956709000000004,1835000.0,118.0
+3192,6,Government,84.0,Cheltenham Primary School,Cheltenham,145.05463500000002,-37.968608,1050000.0,268.0
+3192,6,Government,4754.0,Cheltenham East Primary School,Cheltenham,145.068353,-37.965256,1050000.0,268.0
+3192,6,Government,5101.0,Kingston Heath Primary School,Cheltenham,145.07907,-37.962778,1050000.0,268.0
+3192,6,Government,5422.0,Le Page Primary School,Cheltenham,145.0681429,-37.95926069,1050000.0,268.0
+3192,6,Government,7720.0,Cheltenham Secondary College,Cheltenham,145.068676,-37.953762,1050000.0,268.0
+3192,6,Catholic,1505.0,Our Lady of the Assumption School,CHELTENHAM,145.059713,-37.965505,1050000.0,268.0
+3193,5,Government,3631.0,Black Rock Primary School,Black Rock,145.021651,-37.969869,1945000.0,63.0
+3193,5,Government,3899.0,Beaumaris Primary School,Beaumaris,145.037586,-37.985271999999995,1945000.0,63.0
+3193,5,Government,4803.0,Beaumaris North Primary School,Beaumaris,145.036614,-37.974239000000004,1945000.0,63.0
+3193,5,Government,7566.0,Beaumaris Secondary College,Beaumaris,145.034078,-37.978396000000004,1945000.0,63.0
+3193,5,Catholic,1554.0,Stella Maris School,BEAUMARIS,145.041044,-37.981986,1945000.0,63.0
+3195,11,Government,846.0,Mordialloc Beach Primary School,Mordialloc,145.088809,-38.005582000000004,1530000.0,23.0
+3195,11,Government,4171.0,Parkdale Primary School,Parkdale,145.083098,-37.992792,1530000.0,23.0
+3195,11,Government,4193.0,Aspendale Primary School,Aspendale,145.099756,-38.020272999999996,1530000.0,23.0
+3195,11,Government,4843.0,Parktone Primary School,Parkdale,145.08823999999998,-37.987109000000004,1530000.0,23.0
+3195,11,Government,5142.0,Yarrabah School,Aspendale,145.096687,-38.013994,1530000.0,23.0
+3195,11,Government,5301.0,Aspendale Gardens Primary School,Aspendale Gardens,145.116796,-38.022512,1530000.0,23.0
+3195,11,Government,8075.0,Mordialloc College,Mordialloc,145.092675,-38.012243,1530000.0,23.0
+3195,11,Government,8225.0,Parkdale Secondary College,Mordialloc,145.093501,-37.990301,1530000.0,23.0
+3195,11,Catholic,923.0,St Brigid's School,MORDIALLOC,145.091778,-38.00804,1530000.0,23.0
+3195,11,Catholic,1602.0,St John Vianney's School,PARKDALE EAST,145.09249,-37.99047,1530000.0,23.0
+3195,11,Catholic,1649.0,St Louis de Montfort's School,ASPENDALE,145.102261,-38.018128000000004,1530000.0,23.0
+3196,4,Government,3341.0,Chelsea Heights Primary School,Chelsea Heights,145.138057,-38.045019,972000.0,106.0
+3196,4,Government,3729.0,Chelsea Primary School,Chelsea,145.12231,-38.054889,972000.0,106.0
+3196,4,Government,3790.0,Edithvale Primary School,Edithvale,145.11297,-38.037494,972000.0,106.0
+3196,4,Government,4798.0,Bonbeach Primary School,Bonbeach,145.125645,-38.066493,972000.0,106.0
+3197,2,Government,3385.0,Carrum Primary School,Carrum,145.12670500000002,-38.07812,1022000.0,106.0
+3197,2,Government,5190.0,Patterson Lakes Primary School,Patterson Lakes,145.144792,-38.069838,1022000.0,106.0
+3198,7,Government,3835.0,Seaford Primary School,Seaford,145.130496,-38.104436,730000.0,281.0
+3198,7,Government,4290.0,Nepean Special School,Seaford,145.14233000000002,-38.119433,730000.0,281.0
+3198,7,Government,4902.0,Belvedere Park Primary School,Seaford,145.146925,-38.109838,730000.0,281.0
+3198,7,Government,4974.0,Seaford North Primary School,Seaford,145.133607,-38.09016,730000.0,281.0
+3198,7,Government,5191.0,Seaford Park Primary School,Seaford,145.15444,-38.105038,730000.0,281.0
+3198,7,Government,5418.0,Kananook Primary School,Seaford,145.13173799999998,-38.125159000000004,730000.0,281.0
+3198,7,Government,8725.0,Patterson River Secondary College,Seaford,145.134741,-38.083504,730000.0,281.0
+3199,17,Government,1464.0,Frankston Primary School,Frankston,145.1240309,-38.14755735,906000.0,367.0
+3199,17,Government,4682.0,Frankston East Primary School,Frankston,145.145528,-38.14663,906000.0,367.0
+3199,17,Government,4780.0,Overport Primary School,Frankston,145.126972,-38.160488,906000.0,367.0
+3199,17,Government,4815.0,Frankston Heights Primary School,Frankston,145.147173,-38.161808,906000.0,367.0
+3199,17,Government,4922.0,Karingal Primary School,Frankston,145.152277,-38.137924,906000.0,367.0
+3199,17,Government,4996.0,Derinya Primary School,Frankston South,145.120945,-38.174436,906000.0,367.0
+3199,17,Government,5005.0,Ballam Park Primary School,Frankston,145.158282,-38.147457,906000.0,367.0
+3199,17,Government,5053.0,Karingal Heights Primary School,Frankston,145.166813,-38.141476000000004,906000.0,367.0
+3199,17,Government,5080.0,Naranga Special School,Frankston,145.163005,-38.147158000000005,906000.0,367.0
+3199,17,Government,5135.0,Kingsley Park Primary School,Frankston,145.15570400000001,-38.168079999999996,906000.0,367.0
+3199,17,Government,5143.0,Frankston Special Developmental School,Frankston,145.170197,-38.143298,906000.0,367.0
+3199,17,Government,7028.0,Mount Erin Secondary College,Frankston South,145.14663000000002,-38.174118,906000.0,367.0
+3199,17,Government,7850.0,Frankston High School,Frankston,145.129706,-38.162156,906000.0,367.0
+3199,17,Government,8835.0,McClelland Secondary College,Frankston,145.158453,-38.14632,906000.0,367.0
+3199,17,Catholic,1280.0,St Francis Xavier School,FRANKSTON,145.1262013,-38.14879945,906000.0,367.0
+3199,17,Catholic,1670.0,John Paul College,FRANKSTON,145.138867,-38.13557,906000.0,367.0
+3199,17,Catholic,1808.0,St Augustine's School,FRANKSTON SOUTH,145.145871,-38.172048,906000.0,367.0
+3200,3,Government,4939.0,Mahogany Rise Primary School,Frankston North,145.157399,-38.125617,490000.0,91.0
+3200,3,Government,5043.0,Aldercourt Primary School,Frankston North,145.161618,-38.116618,490000.0,91.0
+3200,3,Government,8809.0,Monterey Secondary College,Frankston North,145.147724,-38.126124,490000.0,91.0
+3201,4,Government,3613.0,Banyan Fields Primary School,Carrum Downs,145.18790900000002,-38.094598,590000.0,364.0
+3201,4,Government,5313.0,Rowellyn Park Primary School,Carrum Downs,145.192454,-38.104424,590000.0,364.0
+3201,4,Government,8423.0,Carrum Downs Secondary College,Carrum Downs,145.19765800000002,-38.095290999999996,590000.0,364.0
+3201,4,Catholic,1909.0,St Joachim's School,CARRUM DOWNS,145.178469,-38.103348,590000.0,364.0
+3204,10,Government,3074.0,Ormond Primary School,Ormond,145.033669,-37.907001,1647000.0,59.0
+3204,10,Government,4318.0,Bentleigh West Primary School,Bentleigh,145.026767,-37.920584999999996,1647000.0,59.0
+3204,10,Government,4366.0,McKinnon Primary School,Ormond,145.052795,-37.908049,1647000.0,59.0
+3204,10,Government,4687.0,Tucker Road Bentleigh Primary School,Bentleigh,145.049012,-37.932543,1647000.0,59.0
+3204,10,Government,4846.0,Katandra School,Ormond,145.04073799999998,-37.902060999999996,1647000.0,59.0
+3204,10,Government,8125.0,McKinnon Secondary College,Mckinnon,145.048545,-37.912203999999996,1647000.0,59.0
+3204,10,Independent,1190.0,Kilvington Grammar School,ORMOND,145.041216,-37.899519,1647000.0,59.0
+3204,10,Catholic,1212.0,St Kevin's School,ORMOND,145.038799,-37.904399,1647000.0,59.0
+3204,10,Catholic,1481.0,Our Lady of the Sacred Heart College,BENTLEIGH,145.039942,-37.925723,1647000.0,59.0
+3204,10,Independent,2083.0,Divrei Emineh,ORMOND,145.03508069999998,-37.90360104,1647000.0,59.0
+3205,3,Government,2784.0,Montague Continuing Education Centre,South Melbourne,144.949738,-37.830602,1653000.0,108.0
+3205,3,Catholic,1941.0,Galilee Regional Catholic Primary School,SOUTH MELBOURNE,144.954811,-37.836158000000005,1653000.0,108.0
+3205,3,Independent,2236.0,Youth2Industry College,SOUTH MELBOURNE,144.96641699999998,-37.837469,1653000.0,108.0
+3206,4,Government,1181.0,Albert Park Primary School,Albert Park,144.952766,-37.841884,2680000.0,49.0
+3206,4,Government,2815.0,Middle Park Primary School,Middle Park,144.957512,-37.847803000000006,2680000.0,49.0
+3206,4,Government,5562.0,South Melbourne Park Primary School,Albert Park,144.962696,-37.840538,2680000.0,49.0
+3206,4,Government,8889.0,Albert Park College,Albert Park,144.947363,-37.844792,2680000.0,49.0
+3207,2,Government,2932.0,Port Melbourne Primary School,Port Melbourne,144.93381200000002,-37.835322,1701000.0,154.0
+3207,2,Government,5145.0,Port Phillip Specialist School,Port Melbourne,144.9419729,-37.83678831,1701000.0,154.0
+3335,1,Government,919.0,Rockbank Primary School,Rockbank,144.661899,-37.732147,516000.0,47.0
+3337,12,Government,430.0,Melton Primary School,Melton,144.58701499999998,-37.680455,480000.0,156.0
+3337,12,Government,5036.0,Melton West Primary School,Melton West,144.567489,-37.677483,480000.0,156.0
+3337,12,Government,5162.0,Melton Specialist School,Melton,144.56822,-37.68057,480000.0,156.0
+3337,12,Government,5206.0,Wedge Park Primary School,Melton West,144.554212,-37.675615,480000.0,156.0
+3337,12,Government,5256.0,Kurunjang Primary School,Melton,144.58631499999998,-37.67057,480000.0,156.0
+3337,12,Government,5414.0,Toolern Vale and District Primary School,Toolern Vale,144.594231,-37.606275,480000.0,156.0
+3337,12,Government,5557.0,Arnolds Creek Primary School,Harkness,144.54285900000002,-37.666358,480000.0,156.0
+3337,12,Government,8027.0,Melton Secondary College,Melton,144.56821599999998,-37.681753,480000.0,156.0
+3337,12,Government,8718.0,Kurunjang Secondary College,Melton,144.585957,-37.672914,480000.0,156.0
+3337,12,Catholic,1739.0,St Dominic's School,MELTON,144.58463500000002,-37.680915,480000.0,156.0
+3337,12,Catholic,1811.0,Catholic Regional College,MELTON,144.550411,-37.677246000000004,480000.0,156.0
+3337,12,Catholic,1878.0,St Catherine of Siena School,MELTON WEST,144.5501953,-37.67878271,480000.0,156.0
+3752,3,Government,1975.0,Morang South Primary School,South Morang,145.0946659,-37.65286941,645000.0,239.0
+3752,3,Government,8846.0,The Lakes South Morang College,South Morang,145.075679,-37.634935,645000.0,239.0
+3752,3,Catholic,2032.0,Marymede Catholic College,SOUTH MORANG,145.091027,-37.643315,645000.0,239.0
+3754,9,Government,488.0,Mernda Primary School,Mernda,145.0922429,-37.59459504,600000.0,325.0
+3754,9,Government,945.0,Doreen Primary School,Doreen,145.14553899999999,-37.60601,600000.0,325.0
+3754,9,Government,5497.0,Laurimar Primary School,Doreen,145.126874,-37.585823,600000.0,325.0
+3754,9,Government,5525.0,Mernda Park Primary School,Mernda,145.096935,-37.614026,600000.0,325.0
+3754,9,Government,5552.0,Hazel Glen College,Doreen,145.11936799999998,-37.597553000000005,600000.0,325.0
+3754,9,Government,5569.0,Ashley Park Primary School,Doreen,145.127284,-37.615639,600000.0,325.0
+3754,9,Government,8897.0,Mernda Central P-12 College,Mernda,145.08833,-37.604853000000006,600000.0,325.0
+3754,9,Independent,1826.0,Plenty Valley Christian College,DOREEN,145.138791,-37.613463,600000.0,325.0
+3754,9,Catholic,2096.0,St Paul the Apostle Catholic Primary School,DOREEN,145.1152172,-37.59693094,600000.0,325.0
+3788,1,Government,3494.0,Olinda Primary School,Olinda,145.3661919,-37.85469614,840000.0,27.0
+3793,3,Government,3265.0,Monbulk Primary School,Monbulk,145.4102612,-37.87685153,714000.0,80.0
+3793,3,Government,8065.0,Monbulk College,Monbulk,145.4278068,-37.88317535,714000.0,80.0
+3793,3,Independent,1795.0,Mountain District Christian School,MONBULK,145.4527149,-37.85664819,714000.0,80.0
+3796,4,Government,3642.0,Mount Evelyn Primary School,Mount Evelyn,145.3888224,-37.79092979,747000.0,133.0
+3796,4,Government,5048.0,Birmingham Primary School,Mount Evelyn,145.36851719999999,-37.77958096,747000.0,133.0
+3796,4,Government,5246.0,Yarra Ranges Special Developmental School,Mount Evelyn,145.384871,-37.77502297,747000.0,133.0
+3796,4,Independent,1701.0,Mount Evelyn Christian School/Ranges TEC,MOUNT EVELYN,145.3670969,-37.79883442,747000.0,133.0
+3802,9,Government,5136.0,James Cook Primary School,Endeavour Hills,145.245853,-37.979065000000006,687000.0,278.0
+3802,9,Government,5205.0,Mossgiel Park Primary School,Endeavour Hills,145.267718,-37.968385999999995,687000.0,278.0
+3802,9,Government,5231.0,Chalcot Lodge Primary School,Endeavour Hills,145.24769799999999,-37.969731,687000.0,278.0
+3802,9,Government,5235.0,Southern Cross Primary School,Endeavour Hills,145.26441200000002,-37.988234000000006,687000.0,278.0
+3802,9,Government,5294.0,Thomas Mitchell Primary School,Endeavour Hills,145.27391,-37.980562,687000.0,278.0
+3802,9,Government,8869.0,Gleneagles Secondary College,Endeavour Hills,145.276556,-37.974606,687000.0,278.0
+3802,9,Independent,1679.0,Maranatha Christian School,ENDEAVOUR HILLS,145.27803400000002,-37.970919,687000.0,278.0
+3802,9,Catholic,1820.0,St Paul Apostle South School,ENDEAVOUR HILLS,145.257929,-37.980524,687000.0,278.0
+3802,9,Catholic,1897.0,St Paul Apostle North School,ENDEAVOUR HILLS,145.262664,-37.967529,687000.0,278.0
+3804,3,Government,1901.0,Narre Warren North Primary School,Narre  Warren  North,145.316923,-37.978584999999995,1248000.0,70.0
+3804,3,Catholic,1944.0,Mary MacKillop School,NARRE WARREN NORTH,145.311285,-37.995837,1248000.0,70.0
+3804,3,Independent,2106.0,Harkaway Hills College,NARRE WARREN NORTH,145.31587,-37.977493,1248000.0,70.0
+3805,12,Government,4407.0,Fleetwood Primary School,Narre Warren,145.318095,-38.039305,640000.0,358.0
+3805,12,Government,5072.0,Fountain Gate Primary School,Narre Warren,145.2951998,-38.0094246,640000.0,358.0
+3805,12,Government,5238.0,Dandenong Valley Special Developmental School,Narre Warren,145.2959991,-38.00759964,640000.0,358.0
+3805,12,Government,5293.0,Maramba Primary School,Narre Warren,145.304125,-38.003437,640000.0,358.0
+3805,12,Government,5363.0,Oatlands Primary School,Narre Warren,145.31618999999998,-38.006440999999995,640000.0,358.0
+3805,12,Government,5463.0,Strathaird Primary School,Narre Warren South,145.28692,-38.06312,640000.0,358.0
+3805,12,Government,5482.0,Hillsmeade Primary School,Narre Warren South,145.30746299999998,-38.06472,640000.0,358.0
+3805,12,Government,8839.0,Narre Warren South P-12 College,Narre Warren South,145.285075,-38.049734,640000.0,358.0
+3805,12,Government,8870.0,Fountain Gate Secondary College,Narre Warren,145.2953788,-38.00528163,640000.0,358.0
+3805,12,Independent,1511.0,Heritage College,NARRE WARREN SOUTH,145.316519,-38.050215,640000.0,358.0
+3805,12,Catholic,1832.0,Don Bosco School,NARRE WARREN,145.31501200000002,-38.025966,640000.0,358.0
+3805,12,Catholic,1993.0,Trinity Catholic Primary School,NARRE WARREN SOUTH,145.297985,-38.055386,640000.0,358.0
+3810,10,Government,5370.0,Pakenham Hills Primary School,Pakenham,145.494421,-38.060626,570000.0,842.0
+3810,10,Government,5504.0,Pakenham Lakeside Primary School,Pakenham,145.438998,-38.068457,570000.0,842.0
+3810,10,Government,5507.0,Pakenham Springs Primary School,Pakenham,145.470076,-38.084508,570000.0,842.0
+3810,10,Government,5527.0,Pakenham Primary School,Pakenham,145.5108401,-38.06393707,570000.0,842.0
+3810,10,Government,5561.0,John Henry Primary School,Pakenham,145.442257,-38.076966,570000.0,842.0
+3810,10,Government,6243.0,Pakenham Consolidated School,Pakenham,145.464663,-38.065371,570000.0,842.0
+3810,10,Government,8223.0,Pakenham Secondary College,Pakenham,145.471002,-38.068996999999996,570000.0,842.0
+3810,10,Government,8224.0,Edenbrook Secondary College,Pakenham,145.444017,-38.078267,570000.0,842.0
+3810,10,Independent,1855.0,Beaconhills College,PAKENHAM,145.467319,-38.061898,570000.0,842.0
+3810,10,Independent,2035.0,Lakeside College,PAKENHAM,145.4559279,-38.06492414,570000.0,842.0
+3910,5,Government,3531.0,Langwarrin Primary School,Langwarrin,145.189852,-38.160389,679000.0,360.0
+3910,5,Government,5257.0,Langwarrin Park Primary School,Langwarrin,145.2025,-38.150915000000005,679000.0,360.0
+3910,5,Government,5319.0,Woodlands Primary School,Langwarrin,145.205019,-38.135677,679000.0,360.0
+3910,5,Government,8722.0,Elisabeth Murdoch College,Langwarrin,145.19018,-38.159290999999996,679000.0,360.0
+3910,5,Catholic,1760.0,St Jude's School,LANGWARRIN,145.191109,-38.155275,679000.0,360.0
+3918,1,Government,3933.0,Bittern Primary School,Bittern,145.171678,-38.339857,680000.0,74.0
+3930,7,Government,1368.0,Mount Eliza Primary School,Mount Eliza,145.09218700000002,-38.195387,1453000.0,381.0
+3930,7,Government,5140.0,Mount Eliza North Primary School,Mount Eliza,145.10054,-38.188401,1453000.0,381.0
+3930,7,Government,5182.0,Kunyung Primary School,Mount Eliza,145.07623,-38.187675,1453000.0,381.0
+3930,7,Government,8102.0,Mount Eliza Secondary College,Mount Eliza,145.093544,-38.189704,1453000.0,381.0
+3930,7,Independent,1086.0,Toorak College,MT ELIZA,145.09346499999998,-38.172264,1453000.0,381.0
+3930,7,Independent,1610.0,Peninsula Grammar,MT ELIZA,145.090692,-38.198174,1453000.0,381.0
+3930,7,Catholic,1822.0,St Thomas More's School,MOUNT ELIZA,145.10113700000002,-38.197726,1453000.0,381.0
+3931,7,Government,2033.0,Mornington Primary School,Mornington,145.043087,-38.221806,950000.0,535.0
+3931,7,Government,5040.0,Mornington Park Primary School,Mornington,145.058751,-38.226026,950000.0,535.0
+3931,7,Government,5239.0,Mornington Special Developmental School,Mornington,145.05718380000002,-38.22610733,950000.0,535.0
+3931,7,Government,5488.0,Benton Junior College,Mornington,145.061114,-38.245946,950000.0,535.0
+3931,7,Government,8804.0,Mornington Secondary College,Mornington,145.05776200000003,-38.216712,950000.0,535.0
+3931,7,Catholic,501.0,Padua College,MORNINGTON,145.0720043,-38.21825666,950000.0,535.0
+3931,7,Catholic,1665.0,St Macartan's School,MORNINGTON,145.070463,-38.223213,950000.0,535.0
+3934,3,Government,2655.0,Osborne Primary School,Mount Martha,145.040906,-38.257107,1281000.0,441.0
+3934,3,Government,5171.0,Mount Martha Primary School,Mount Martha,145.01373,-38.275563,1281000.0,441.0
+3934,3,Independent,2043.0,Balcombe Grammar School,MT MARTHA,145.0326885,-38.27325431,1281000.0,441.0
+3936,3,Government,184.0,Dromana Primary School,Dromana,144.959653,-38.339644,865000.0,201.0
+3936,3,Government,5230.0,Peninsula Specialist College,Dromana,145.010108,-38.341840999999995,865000.0,201.0
+3936,3,Government,7122.0,Dromana Secondary College,Dromana,145.013582,-38.342636,865000.0,201.0
+3939,5,Government,1184.0,Boneo Primary School,Boneo,144.88728500000002,-38.41187,645000.0,497.0
+3939,5,Government,2627.0,Rosebud Primary School,Rosebud,144.908999,-38.355761,645000.0,497.0
+3939,5,Government,8290.0,Rosebud Secondary College,Rosebud,144.887447,-38.367615,645000.0,497.0
+3939,5,Catholic,1881.0,Our Lady of Fatima School,ROSEBUD,144.897536,-38.371333,645000.0,497.0
+3939,5,Independent,2109.0,Advance College of Education Incorporated,ROSEBUD,144.885064,-38.382847,645000.0,497.0
+3941,2,Government,1667.0,Rye Primary School,Rye,144.823824,-38.373115999999996,729000.0,112.0
+3941,2,Government,4661.0,Tootgarook Primary School,Tootgarook,144.85732099999998,-38.369477,729000.0,112.0
+3943,1,Government,1090.0,Sorrento Primary School,Sorrento,144.740685,-38.341482,1903000.0,163.0
+3976,5,Government,4062.0,Hampton Park Primary School,Hampton Park,145.252893,-38.030413,568000.0,287.0
+3976,5,Government,5130.0,River Gum Primary School,Hampton Park,145.26050700000002,-38.034653999999996,568000.0,287.0
+3976,5,Government,5292.0,Coral Park Primary School,Hampton Park,145.274352,-38.043846,568000.0,287.0
+3976,5,Government,5350.0,Kilberry Valley Primary School,Hampton Park,145.27957,-38.034165,568000.0,287.0
+3976,5,Government,8709.0,Hampton Park Secondary College,Hampton Park,145.259884,-38.034862,568000.0,287.0
+3977,25,Government,1222.0,Skye Primary School,Skye,145.201245,-38.117707,650000.0,107.0
+3977,25,Government,2068.0,Cranbourne Primary School,Cranbourne,145.287849,-38.111863,650000.0,107.0
+3977,25,Government,3924.0,Devon Meadows Primary School,Devon Meadows,145.301384,-38.162026000000004,650000.0,107.0
+3977,25,Government,4755.0,Cranbourne South Primary School,Cranbourne South,145.24506200000002,-38.147944,650000.0,107.0
+3977,25,Government,4887.0,Cranbourne Park Primary School,Cranbourne,145.27774499999998,-38.104064,650000.0,107.0
+3977,25,Government,5189.0,Cranbourne West Primary School,Cranbourne,145.267723,-38.102713,650000.0,107.0
+3977,25,Government,5224.0,Botanic Ridge Primary School,Botanic Ridge,145.28804499999998,-38.150071000000004,650000.0,107.0
+3977,25,Government,5232.0,Rangebank Primary School,Cranbourne,145.276217,-38.087362,650000.0,107.0
+3977,25,Government,5371.0,Courtenay Gardens Primary School,Cranbourne North,145.28345,-38.080121999999996,650000.0,107.0
+3977,25,Government,5464.0,Marnebek School Cranbourne,Cranbourne East,145.29649990000001,-38.11020493,650000.0,107.0
+3977,25,Government,5510.0,Cranbourne Carlisle Primary School,Cranbourne,145.289059,-38.087532,650000.0,107.0
+3977,25,Government,5518.0,Cranbourne East Primary School,Cranbourne East,145.304437,-38.106281,650000.0,107.0
+3977,25,Government,5553.0,Tulliallan Primary School,Cranbourne North,145.327335,-38.0816,650000.0,107.0
+3977,25,Government,5560.0,Barton Primary School,Cranbourne West,145.239024,-38.114975,650000.0,107.0
+3977,25,Government,5570.0,Casey Fields Primary School,Cranbourne East,145.298408,-38.120139,650000.0,107.0
+3977,25,Government,7108.0,Lyndhurst Secondary College,Cranbourne,145.271028,-38.075386,650000.0,107.0
+3977,25,Government,7747.0,Cranbourne Secondary College,Cranbourne,145.286136,-38.107591,650000.0,107.0
+3977,25,Government,7748.0,Cranbourne West Secondary College,Cranbourne West,145.24651200000002,-38.10672,650000.0,107.0
+3977,25,Government,8874.0,Alkira Secondary College,Cranbourne North,145.308716,-38.073127,650000.0,107.0
+3977,25,Government,8898.0,Cranbourne East Secondary College,Cranbourne East,145.306027,-38.10494,650000.0,107.0
+3977,25,Catholic,1736.0,St Agatha's School,CRANBOURNE,145.278852,-38.111641999999996,650000.0,107.0
+3977,25,Independent,1942.0,Casey Grammar School,CRANBOURNE EAST,145.29289880000002,-38.11029539,650000.0,107.0
+3977,25,Independent,2054.0,Lighthouse Christian College Cranbourne,CRANBOURNE,145.3073,-38.14,650000.0,107.0
+3977,25,Catholic,2090.0,St Thomas the Apostle Catholic Primary School,CRANBOURNE EAST,145.317042,-38.116172999999996,650000.0,107.0
+3977,25,Independent,2228.0,Clyde Grammar,CRANBOURNE EAST,145.293038,-38.110434000000005,650000.0,107.0
